@@ -1,0 +1,1298 @@
+WEBVTT
+
+00:01:55.000 --> 00:02:00.000
+Shiva Kumar Chary Valaboju: I think it automatically turns on the transcript when you start recording, right?
+
+00:02:02.000 --> 00:02:04.000
+Jennifer p: Um…
+
+00:02:02.000 --> 00:02:04.000
+Jay Beladiya: I'm not sure.
+
+00:02:05.000 --> 00:02:10.000
+Jennifer p: I hope so. I don't know, when I recorded it last time, I was using, like, a different app for it, but…
+
+00:02:10.000 --> 00:02:13.000
+Shiva Kumar Chary Valaboju: Yeah, it says that, like.
+
+00:02:13.000 --> 00:02:15.000
+Shiva Kumar Chary Valaboju: Okay.
+
+00:02:13.000 --> 00:02:18.000
+Jennifer p: But you… yeah, you said, are you using AI, the, like, the…
+
+00:02:19.000 --> 00:02:20.000
+Jennifer p: AI Companion?
+
+00:02:20.000 --> 00:02:22.000
+Shiva Kumar Chary Valaboju: Yep.
+
+00:02:21.000 --> 00:02:25.000
+Jennifer p: Okay. Then it should, I think.
+
+00:02:27.000 --> 00:02:29.000
+Jennifer p: Okay, so, um…
+
+00:02:28.000 --> 00:02:31.000
+Jay Beladiya: Yeah, it does, it does record, yeah, okay.
+
+00:02:30.000 --> 00:02:34.000
+Jennifer p: Okay, good. Cool, cool, cool. So…
+
+00:02:34.000 --> 00:02:42.000
+Jennifer p: We had 3 data sets that were suggested amongst our team, is that right, or did I miss one from DJ?
+
+00:02:40.000 --> 00:02:42.000
+Jay Beladiya: Yes.
+
+00:02:42.000 --> 00:02:44.000
+Jay Beladiya: I think so.
+
+00:02:45.000 --> 00:02:50.000
+Jennifer p: Okay. So, I feel like, Shiva, I feel like you had…
+
+00:02:51.000 --> 00:02:56.000
+Jennifer p: a strong opinion on wanting to do yours, is that right? That's what I kind of gathered.
+
+00:02:54.000 --> 00:02:58.000
+Shiva Kumar Chary Valaboju: Yeah. So, uh, so actually…
+
+00:02:58.000 --> 00:03:04.000
+Shiva Kumar Chary Valaboju: I have worked on, like, specific projects on my, like, throughout my undergraduation.
+
+00:03:05.000 --> 00:03:09.000
+Shiva Kumar Chary Valaboju: and on my master's, on the UCL repository.
+
+00:03:05.000 --> 00:03:07.000
+Jennifer p: Okay.
+
+00:03:10.000 --> 00:03:15.000
+Shiva Kumar Chary Valaboju: Uh, data sets. So, like, as we data science students.
+
+00:03:15.000 --> 00:03:21.000
+Shiva Kumar Chary Valaboju: I think however people in the data science, like, they've gone through these, like, data sets, so…
+
+00:03:21.000 --> 00:03:26.000
+Shiva Kumar Chary Valaboju: I'm thinking, like, should we work on those datasets? And…
+
+00:03:27.000 --> 00:03:33.000
+Shiva Kumar Chary Valaboju: My overchange, like, from a couple of projects I've worked on, like, they are, like, CSV files.
+
+00:03:33.000 --> 00:03:38.000
+Shiva Kumar Chary Valaboju: Let's do, like, image data sets, like, if you want me to ask, like.
+
+00:03:38.000 --> 00:03:44.000
+Shiva Kumar Chary Valaboju: any change of datasets. We'll do on same kind of datasets, like, for healthcare related.
+
+00:03:44.000 --> 00:03:50.000
+Shiva Kumar Chary Valaboju: But through image processing kind of stuff, it makes us the projects more solid.
+
+00:03:51.000 --> 00:03:59.000
+Jennifer p: Okay, but is there… is there bias in that data set that… that's the whole point, is we're… we're supposed to use a known bias?
+
+00:03:59.000 --> 00:04:01.000
+Jennifer p: Right?
+
+00:04:00.000 --> 00:04:02.000
+Jay Beladiya: Yeah.
+
+00:04:01.000 --> 00:04:02.000
+Shiva Kumar Chary Valaboju: I think…
+
+00:04:03.000 --> 00:04:05.000
+Shiva Kumar Chary Valaboju: Some data centers maybe have bias, like…
+
+00:04:05.000 --> 00:04:10.000
+Shiva Kumar Chary Valaboju: Or not by us. Like, we need to first figure out what data set we need to do then.
+
+00:04:10.000 --> 00:04:14.000
+Shiva Kumar Chary Valaboju: We can check that if it's by us or not by us first.
+
+00:04:14.000 --> 00:04:26.000
+Jay Beladiya: Because I think the main point of the group project is, like, figure… is, like, finding a dataset which has bias, and then proving the bias using, like, Python and whatever we're using.
+
+00:04:17.000 --> 00:04:19.000
+Shiva Kumar Chary Valaboju: No.
+
+00:04:22.000 --> 00:04:24.000
+Jennifer p: Right.
+
+00:04:27.000 --> 00:04:29.000
+Jennifer p: Right. I don't want to just…
+
+00:04:27.000 --> 00:04:32.000
+Jay Beladiya: So if it does not have bias, then we're probably gonna have to change the dataset again.
+
+00:04:31.000 --> 00:04:33.000
+Jennifer p: Right.
+
+00:04:35.000 --> 00:04:37.000
+Jay Beladiya: So…
+
+00:04:35.000 --> 00:04:43.000
+Jennifer p: Because I don't want to waste too much time trying to find if there's bias, because it's… it's… we're supposed to find a data set that has, like, that's known to be biased, you know what I mean?
+
+00:04:43.000 --> 00:04:48.000
+Jay Beladiya: I mean, yeah, I mean, if you really want to use it, I mean, before we…
+
+00:04:48.000 --> 00:04:58.000
+Jay Beladiya: choose one, you could probably just check real quick if it has bias or not. It's probably there on the internet somewhere, because I think we're supposed to discuss about this tomorrow, I think.
+
+00:04:55.000 --> 00:04:57.000
+Shiva Kumar Chary Valaboju: Uh, that's what… that's what I…
+
+00:04:58.000 --> 00:05:03.000
+Shiva Kumar Chary Valaboju: Yeah, that's what I have checked with all the data sets. So, like, I have asked, like.
+
+00:05:03.000 --> 00:05:09.000
+Shiva Kumar Chary Valaboju: For AI as well, like, like in the Google as well, like, do healthcare data sets out by us, so…
+
+00:05:09.000 --> 00:05:15.000
+Shiva Kumar Chary Valaboju: It says that every data set in the healthcare has bias, and we need to do the coding, and we need to.
+
+00:05:15.000 --> 00:05:18.000
+Shiva Kumar Chary Valaboju: Show the non-biasinos.
+
+00:05:18.000 --> 00:05:20.000
+Shiva Kumar Chary Valaboju: That's why those data sets are meant to be.
+
+00:05:23.000 --> 00:05:26.000
+Jay Beladiya: I mean, are you saying that, uh…
+
+00:05:25.000 --> 00:05:28.000
+Shiva Kumar Chary Valaboju: Yes, every healthcare data sets are by us.
+
+00:05:29.000 --> 00:05:31.000
+Jay Beladiya: Sure, I mean…
+
+00:05:29.000 --> 00:05:33.000
+Jennifer p: But will it be something that we'll be able to actually demonstrate, though? Like…
+
+00:05:32.000 --> 00:05:41.000
+Jay Beladiya: Yeah, because… because I think, uh, what he wants us to do is, like, find a dataset which definitely has a lot of bias.
+
+00:05:41.000 --> 00:05:47.000
+Jay Beladiya: So I think, uh, he just wants to say that, uh, I think talk about different types of biases and something.
+
+00:05:47.000 --> 00:05:58.000
+Jennifer p: Right, because that's the… that's the objective of this project, is the bias part. It's not just working with data. Because, I mean, in all our other classes, we can work with data, but this is kind of like…
+
+00:05:49.000 --> 00:05:51.000
+Jay Beladiya: Main point, yeah.
+
+00:05:50.000 --> 00:05:52.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:05:54.000 --> 00:05:56.000
+Jay Beladiya: So, I mean, I would…
+
+00:05:58.000 --> 00:06:00.000
+Jennifer p: Working with bias, specifically.
+
+00:05:59.000 --> 00:06:10.000
+Jay Beladiya: Yeah, I would… I would prefer a data set that has strong bias instead of just, like, a little bit of it, you know? Like, not 45 and 60, like, 55%, maybe, like.
+
+00:06:11.000 --> 00:06:14.000
+Jay Beladiya: More like 30% to 70% or something like that.
+
+00:06:14.000 --> 00:06:18.000
+Shiva Kumar Chary Valaboju: So, like, have… I'm just, like, searching in the Google.
+
+00:06:18.000 --> 00:06:26.000
+Shiva Kumar Chary Valaboju: These are saying that the healthcare datasets have, like, a significance of consequences of biasness.
+
+00:06:27.000 --> 00:06:30.000
+Shiva Kumar Chary Valaboju: Those are, like, diagnostic and treatment errors.
+
+00:06:30.000 --> 00:06:35.000
+Shiva Kumar Chary Valaboju: Health inequalities, poor generalizability.
+
+00:06:35.000 --> 00:06:43.000
+Jay Beladiya: I mean, I get what you're saying, but do you have a specific one, like a link, or maybe downloaded files that we can…
+
+00:06:35.000 --> 00:06:37.000
+Shiva Kumar Chary Valaboju: Like…
+
+00:06:37.000 --> 00:06:39.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:06:40.000 --> 00:06:42.000
+Shiva Kumar Chary Valaboju: Like…
+
+00:06:43.000 --> 00:06:50.000
+Jay Beladiya: you know, demonstrate… I know we don't have to demonstrate tomorrow, but maybe for next week, we still have to work on the dataset.
+
+00:06:50.000 --> 00:06:55.000
+Shiva Kumar Chary Valaboju: Yeah, so, like, if you want me to do that, I can do that. Like, I have, like, a couple of datasets with me.
+
+00:06:55.000 --> 00:07:04.000
+Shiva Kumar Chary Valaboju: I can download them, like, uh, I'll do, like, 3 kinds of data sets for my side, if you wanna go ahead with my choice.
+
+00:07:04.000 --> 00:07:06.000
+Shiva Kumar Chary Valaboju: I can do, like, 3 data sets.
+
+00:07:06.000 --> 00:07:12.000
+Shiva Kumar Chary Valaboju: I will be downloading them, and I will find, like, which has which biasness, and, like.
+
+00:07:12.000 --> 00:07:21.000
+Shiva Kumar Chary Valaboju: Which is which one, then we can choose. Like, we'll do that for everyone, like, me… me going… go ahead with the healthcare data sets, Jennifer, go ahead with her choice.
+
+00:07:14.000 --> 00:07:16.000
+Jay Beladiya: Okay.
+
+00:07:21.000 --> 00:07:26.000
+Shiva Kumar Chary Valaboju: Uh, you go ahead with your you choice. We'll do our representations.
+
+00:07:24.000 --> 00:07:30.000
+Jay Beladiya: I think we're… I think we're supposed to… like, are you saying for the group project, or is it just for demonstra… like…
+
+00:07:30.000 --> 00:07:32.000
+Shiva Kumar Chary Valaboju: Like…
+
+00:07:30.000 --> 00:07:33.000
+Jay Beladiya: For discussion in the… in this meeting.
+
+00:07:33.000 --> 00:07:40.000
+Shiva Kumar Chary Valaboju: So, like, right now we are doing, like… if you want me to do… I can do, like, I can show some data sets if you want.
+
+00:07:40.000 --> 00:07:44.000
+Shiva Kumar Chary Valaboju: Then we can go ahead. Otherwise, if you want, we can do it for tomorrow as well.
+
+00:07:44.000 --> 00:07:55.000
+Jay Beladiya: I mean, let's just give you… I give an overview of the data set is, like, I think Jennifer also has one. She can just, uh, say what… what, uh, the data set she has… she picked.
+
+00:07:48.000 --> 00:07:50.000
+Shiva Kumar Chary Valaboju: Yes.
+
+00:07:55.000 --> 00:08:03.000
+Jay Beladiya: And then we can make a decision tomorrow, I think, because according to the… the… whatever he gave us, it says for this week, we're supposed to…
+
+00:08:04.000 --> 00:08:10.000
+Jay Beladiya: Well, during the Zoom session, we're supposed to discuss about the data set, so I'm guessing we can make a decision tomorrow?
+
+00:08:11.000 --> 00:08:16.000
+Jay Beladiya: It does not have to be today, so we can just talk about whatever data sets we have, and then…
+
+00:08:16.000 --> 00:08:18.000
+Jay Beladiya: Think about it till tomorrow?
+
+00:08:16.000 --> 00:08:18.000
+sukanya: Yes, even…
+
+00:08:18.000 --> 00:08:31.000
+sukanya: I'm sorry, even I have two datasets, like, after seeing the datasets and the project proposals of Jace and Jennifer, it's similar to them, so that's why I didn't send my data sets to you. So…
+
+00:08:31.000 --> 00:08:36.000
+sukanya: I will send the links tomorrow, like, if you want to check my data sets too.
+
+00:08:34.000 --> 00:08:44.000
+Jay Beladiya: I mean, you can… you can send it right now, and then we can have a look, and then make a decision tomorrow in the class, but, uh, Jennifer, if you want to explain what your dataset is about.
+
+00:08:38.000 --> 00:08:39.000
+sukanya: Yeah, yeah, cool.
+
+00:08:41.000 --> 00:08:43.000
+sukanya: Okay.
+
+00:08:44.000 --> 00:08:46.000
+Jay Beladiya: You can start…
+
+00:08:45.000 --> 00:09:05.000
+Jennifer p: Okay, sure. Um, so mine, I mean, I don't have a really, really strong opinion about using the one I'm suggesting, because especially, I'll be honest with you, when I sent it over, it was before I finished reading the, um, the assigned reading for this week, and so it was discussed a lot in the assigned reading, so I feel like it might be kind of redundant to use it as our project.
+
+00:09:05.000 --> 00:09:11.000
+Jennifer p: Um, but it was that Compass, that Compass data set, um, that Broward County, Florida, like.
+
+00:09:07.000 --> 00:09:09.000
+Jay Beladiya: Yeah.
+
+00:09:12.000 --> 00:09:16.000
+Jennifer p: You know, they're trying to predict if they're gonna re…
+
+00:09:16.000 --> 00:09:20.000
+Jay Beladiya: Yeah, I did come across it. I was looking for mine.
+
+00:09:16.000 --> 00:09:23.000
+Jennifer p: Um… yeah, I feel like it was discussed so much in the reading for this week that it might be.
+
+00:09:23.000 --> 00:09:28.000
+Jennifer p: kind of useless to use for this project, because it was already discussed in the book so much, you know what I mean?
+
+00:09:28.000 --> 00:09:36.000
+Jay Beladiya: Yeah. I mean, I think, uh, it would be too obvious, or maybe something like that.
+
+00:09:34.000 --> 00:09:36.000
+Jennifer p: Mm-hmm.
+
+00:09:36.000 --> 00:09:43.000
+Jennifer p: Yeah, it might not be as exploratory as we could make it, because it's already been explored so much.
+
+00:09:41.000 --> 00:09:43.000
+Jay Beladiya: Yeah.
+
+00:09:43.000 --> 00:09:49.000
+Jennifer p: Um, in… in the reading, so… I don't know. So I… I know I was the one that submitted it, but I'm kind of…
+
+00:09:49.000 --> 00:09:52.000
+Jennifer p: backtracking, I'm like, I don't know if that's the best choice.
+
+00:09:50.000 --> 00:09:56.000
+Jay Beladiya: That is okay. So, uh, are you… can I start my… for mine?
+
+00:09:56.000 --> 00:09:58.000
+Jennifer p: Yeah, yeah, yeah.
+
+00:09:57.000 --> 00:10:05.000
+Jay Beladiya: So, what I sent was, I think it was, uh, Jigsaw, uh, it was a dataset from Jigsaw that they made for…
+
+00:10:04.000 --> 00:10:06.000
+Jennifer p: Mm-hmm.
+
+00:10:05.000 --> 00:10:15.000
+Jay Beladiya: I don't remember what it was for, but I think it was comments. If we use it, it's basically we're using natural language processing, NLP.
+
+00:10:15.000 --> 00:10:24.000
+Jay Beladiya: And I would say, if you use it, I think there's a lot, uh, there's different kinds of biases in that data set, and I think the main point of the lecture was.
+
+00:10:15.000 --> 00:10:17.000
+Jennifer p: Mm-hmm.
+
+00:10:24.000 --> 00:10:36.000
+Jay Beladiya: to discuss different kinds of biases, so maybe in the individual coding project, we can just… each one of us can pick a different kind of bias and then prove it, so… that's what I was thinking, if we go ahead with this one.
+
+00:10:36.000 --> 00:10:42.000
+Jay Beladiya: The only drawback is… it's kind of big. I don't think it's gonna take a lot of time to run.
+
+00:10:42.000 --> 00:10:52.000
+Jay Beladiya: But it also depends on what computers and stuff you have, so I'm not sure if that worked for you, but you can have a look. It's on, uh… I did send a link. It's a competition.
+
+00:10:52.000 --> 00:11:03.000
+Jay Beladiya: The dataset was used for a competition on Kaggle, uh, you probably have to enter it, but you don't have to submit anything or anything, you can just download it after you agree with the rules, that's it.
+
+00:10:56.000 --> 00:10:57.000
+Jennifer p: Okay.
+
+00:11:03.000 --> 00:11:07.000
+Jay Beladiya: So you can have a look on it, look at it, and then we can decide tomorrow.
+
+00:11:03.000 --> 00:11:05.000
+Jennifer p: Okay.
+
+00:11:08.000 --> 00:11:19.000
+sukanya: Yeah, I will send the links of my datasets, and it is about, like, uh, one of the UCI adults, like, as a demographic attributes, like race and genders.
+
+00:11:19.000 --> 00:11:28.000
+sukanya: Uh, it is great for fairness evaluations, like I researcher for demographic Party and Equal Opportunities. So, and one of it is Compass.
+
+00:11:28.000 --> 00:11:41.000
+sukanya: like, uh, includes the risk scores and outcomes useful for fairness and comparisons across product groups, like race and sex. So, these two I have with me, I will send the links, actually, I want to search for it, like.
+
+00:11:41.000 --> 00:11:45.000
+sukanya: Yeah, that's the thing, I have the data sets.
+
+00:11:44.000 --> 00:11:46.000
+Jennifer p: Okay.
+
+00:11:45.000 --> 00:11:47.000
+sukanya: Yeah.
+
+00:11:46.000 --> 00:11:51.000
+Jay Beladiya: So are we, uh, deciding tomorrow, or do you guys want to do it now?
+
+00:11:47.000 --> 00:11:49.000
+Shiva Kumar Chary Valaboju: I have…
+
+00:11:52.000 --> 00:11:57.000
+Shiva Kumar Chary Valaboju: So, like, I have seen, like, a couple of, uh, data sets right now, like, I just…
+
+00:11:52.000 --> 00:11:54.000
+Jay Beladiya: Sorry, I'm asking that question again.
+
+00:11:56.000 --> 00:11:58.000
+Jay Beladiya: Okay.
+
+00:11:58.000 --> 00:12:01.000
+Shiva Kumar Chary Valaboju: I had, like, in my mind. So, which are, like…
+
+00:12:02.000 --> 00:12:09.000
+Shiva Kumar Chary Valaboju: It's, like, uh, lung cancer data set, and another is, like, ECG image dataset for cardiac patients.
+
+00:12:10.000 --> 00:12:15.000
+Shiva Kumar Chary Valaboju: So, like, when it comes to the lung cancer data sets which I've sent.
+
+00:12:15.000 --> 00:12:20.000
+Shiva Kumar Chary Valaboju: It has, like, couple biases, such as… it has, like, class imbalances.
+
+00:12:21.000 --> 00:12:24.000
+Shiva Kumar Chary Valaboju: Limited diversity, and we have, like.
+
+00:12:24.000 --> 00:12:29.000
+Shiva Kumar Chary Valaboju: Uh, 1,000 to 1,200 raw images in the datasets we are doing right now.
+
+00:12:29.000 --> 00:12:31.000
+Shiva Kumar Chary Valaboju: So…
+
+00:12:32.000 --> 00:12:34.000
+Shiva Kumar Chary Valaboju: We need to find…
+
+00:12:34.000 --> 00:12:40.000
+Shiva Kumar Chary Valaboju: The patient has, uh, lung cancer or not, that's the, like, final motive we have.
+
+00:12:40.000 --> 00:12:45.000
+Shiva Kumar Chary Valaboju: And we have, like, so many people have already made some codes and made some publications.
+
+00:12:45.000 --> 00:12:50.000
+Shiva Kumar Chary Valaboju: So we need to do, like, far better than them, like…
+
+00:12:50.000 --> 00:12:55.000
+Shiva Kumar Chary Valaboju: A quite accuracy kind of something or like for giving like.
+
+00:12:55.000 --> 00:13:02.000
+Shiva Kumar Chary Valaboju: uh, quicker solution than the other ones. And it has the same for the other ECG mesh datasets also.
+
+00:13:02.000 --> 00:13:08.000
+Shiva Kumar Chary Valaboju: It has like some daytime balance or class imbalances and it has, like, demographic bias.
+
+00:13:09.000 --> 00:13:19.000
+Shiva Kumar Chary Valaboju: It has some sampling bias. We need to do the modeling, and we need to do them. Like, every data set in healthcare has a similar biasness.
+
+00:13:19.000 --> 00:13:25.000
+Shiva Kumar Chary Valaboju: Not only the lung cancer health, like, we have, like, diabetes predictions.
+
+00:13:25.000 --> 00:13:35.000
+Shiva Kumar Chary Valaboju: We have, like, skin cancer predictions. We have, like, all kind of healthcare-related data 6 are available in the Kaggle. Those all have.
+
+00:13:35.000 --> 00:13:40.000
+Shiva Kumar Chary Valaboju: This kind of bias, like, every data set, like, we can find, like, biasness in healthcare.
+
+00:13:40.000 --> 00:13:46.000
+Shiva Kumar Chary Valaboju: So, like, that's why we'll get a great scope of, uh, doing coding, and we'll get, like.
+
+00:13:46.000 --> 00:13:50.000
+Shiva Kumar Chary Valaboju: Great scope of, uh, bias, like…
+
+00:13:50.000 --> 00:13:56.000
+Shiva Kumar Chary Valaboju: Things, whatever the projects we're gonna do, like, further, uh, whatever we are working on these scores.
+
+00:13:57.000 --> 00:14:04.000
+Shiva Kumar Chary Valaboju: I think these datasets will be greater sufficient or capable of doing the course. That's what my intention is.
+
+00:14:05.000 --> 00:14:07.000
+Jay Beladiya: Oh, uh…
+
+00:14:07.000 --> 00:14:18.000
+Jay Beladiya: Oh, I agree with what you're saying, but I'm just gonna go ahead and say this, but the projects ahead, I don't think they're related to… they're not interrelated with each other, so…
+
+00:14:18.000 --> 00:14:23.000
+Jay Beladiya: That helps, but yeah, I think that's a great data set, yeah.
+
+00:14:19.000 --> 00:14:21.000
+Shiva Kumar Chary Valaboju: Thank you.
+
+00:14:21.000 --> 00:14:31.000
+Shiva Kumar Chary Valaboju: I think because… because right now, we need to find a data set, and we need to find… as you said, like, for the right-now assignment we are finding is it has bias or not.
+
+00:14:25.000 --> 00:14:27.000
+Jay Beladiya: Yeah.
+
+00:14:31.000 --> 00:14:45.000
+Shiva Kumar Chary Valaboju: for the next maybe we're gonna find it, like, is AI gonna integrate with these datasets, and we're gonna find a solution, maybe? Then we need to integrate AI. Then after that, maybe our professor asked that, like, uh.
+
+00:14:31.000 --> 00:14:33.000
+Jay Beladiya: Yeah, yeah.
+
+00:14:45.000 --> 00:14:51.000
+Shiva Kumar Chary Valaboju: uh, full AI gonna do that, or, like, maybe ethics and responsibilities as per our course has.
+
+00:14:51.000 --> 00:14:57.000
+Shiva Kumar Chary Valaboju: He gonna say us that is AI gonna affect the datasets or the project we're gonna do?
+
+00:14:57.000 --> 00:15:03.000
+Shiva Kumar Chary Valaboju: Yes, we're gonna do it. We need to find it out. Otherwise, we can do it manually, like, we can do that.
+
+00:15:03.000 --> 00:15:08.000
+Shiva Kumar Chary Valaboju: maybe after that, we can pre-port, uh, like, modeling. We have, like, modeling the…
+
+00:15:08.000 --> 00:15:16.000
+Shiva Kumar Chary Valaboju: modeling the, like, modeling the codes and finding the data sets. We can do it manually, and we do it with the help of AI as well.
+
+00:15:17.000 --> 00:15:19.000
+Shiva Kumar Chary Valaboju: So, as that's my intention…
+
+00:15:19.000 --> 00:15:21.000
+Shiva Kumar Chary Valaboju: We're gonna see.
+
+00:15:21.000 --> 00:15:25.000
+Jay Beladiya: I'm sorry, can you explain again? I kinda… I was kinda lost in the middle, I'm sorry.
+
+00:15:25.000 --> 00:15:34.000
+Shiva Kumar Chary Valaboju: Oh, so… so what I'm saying is… so as per every courses in data science, they're gonna do, like, data preprocessing, and have you gone through all the…
+
+00:15:34.000 --> 00:15:39.000
+Shiva Kumar Chary Valaboju: Uh, core courses, what we have done, and our final projects and everything.
+
+00:15:39.000 --> 00:15:45.000
+Shiva Kumar Chary Valaboju: So right now, what I'm thinking is our professors maybe do the same, but he gonna…
+
+00:15:45.000 --> 00:15:53.000
+Shiva Kumar Chary Valaboju: Ask us, is the data or is the projects that we have done is ethically and responsibly right or wrong?
+
+00:15:53.000 --> 00:15:58.000
+Shiva Kumar Chary Valaboju: Is the all… what we have done is can be replaced by AI or not.
+
+00:15:58.000 --> 00:16:05.000
+Shiva Kumar Chary Valaboju: We can do that either, we can do this either. So we have a chance of doing both with these datasets. That's what I meant.
+
+00:16:08.000 --> 00:16:15.000
+Jay Beladiya: Okay. I kind of had a look at the other projects. Uh, the next one is, I think, data visualization. It just says which one is…
+
+00:16:09.000 --> 00:16:11.000
+Shiva Kumar Chary Valaboju: Yeah, that's…
+
+00:16:11.000 --> 00:16:13.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:16:15.000 --> 00:16:20.000
+Jay Beladiya: Which one is, uh, best… the best data visualization tools?
+
+00:16:20.000 --> 00:16:27.000
+Jay Beladiya: for data science or something. I don't know if that's related or not. There's no other information on it.
+
+00:16:27.000 --> 00:16:29.000
+Jay Beladiya: So, well, I…
+
+00:16:28.000 --> 00:16:32.000
+Shiva Kumar Chary Valaboju: So, like, for data visualization, I think that whatever the data we're gonna do.
+
+00:16:33.000 --> 00:16:38.000
+Shiva Kumar Chary Valaboju: is it sufficient for visualizing? Like, we need to, like, if suppose you are at, like.
+
+00:16:38.000 --> 00:16:45.000
+Shiva Kumar Chary Valaboju: Someone is, like, reader, we need to show… we need to relate the data, like, whatever the data set we choose right now.
+
+00:16:45.000 --> 00:16:54.000
+Shiva Kumar Chary Valaboju: We need to showcase that data set. We need to visualize it. That's what we're gonna do in our preprocessing or visualizing the data, right?
+
+00:16:55.000 --> 00:17:05.000
+Jay Beladiya: I'm… I'm not sure, so that's why I'm asking, because there's no other information on the next project. It just says, uh, figure out what the best data visualizations are, and what.
+
+00:16:56.000 --> 00:16:58.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:17:01.000 --> 00:17:03.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:17:05.000 --> 00:17:12.000
+Jay Beladiya: what is the best one that we can use for data science? I don't think they're… all these projects are interrelated. All of them are different.
+
+00:17:11.000 --> 00:17:18.000
+Shiva Kumar Chary Valaboju: Yeah. Maybe, yeah, we'll keep it a point, and we'll be asking these couple questions with our professor, and…
+
+00:17:18.000 --> 00:17:21.000
+Shiva Kumar Chary Valaboju: We're gonna choose it tomorrow then.
+
+00:17:20.000 --> 00:17:23.000
+Jay Beladiya: Yeah, that sounds good.
+
+00:17:21.000 --> 00:17:23.000
+sukanya: Yeah.
+
+00:17:22.000 --> 00:17:24.000
+Shiva Kumar Chary Valaboju: That makes sense, though.
+
+00:17:23.000 --> 00:17:26.000
+sukanya: Okay.
+
+00:17:26.000 --> 00:17:31.000
+Jennifer p: Okay, so as of right now, we haven't really made any decisions, or do we…
+
+00:17:30.000 --> 00:17:32.000
+Shiva Kumar Chary Valaboju: No right now.
+
+00:17:32.000 --> 00:17:39.000
+Jennifer p: Okay, so tomorrow, we don't really necessarily have a lot of time to discuss things in class.
+
+00:17:39.000 --> 00:17:45.000
+Jay Beladiya: Yeah, actually, I think we only have, like, 3 or 5… 3 or 4 minutes that he gives us in breakout room, so…
+
+00:17:40.000 --> 00:17:42.000
+Jennifer p: So…
+
+00:17:40.000 --> 00:17:42.000
+sukanya: Hm.
+
+00:17:45.000 --> 00:17:54.000
+Jennifer p: Right. So, what's gonna be our next step from here? If we don't have a time to actually discuss it in class? Are we gonna meet after class?
+
+00:17:55.000 --> 00:17:57.000
+Jay Beladiya: The… do we want to?
+
+00:17:58.000 --> 00:18:03.000
+Jennifer p: Well, we have to make a game plan. Like, I thought that's what this meeting was, but…
+
+00:18:02.000 --> 00:18:04.000
+Jay Beladiya: I… yeah, it is, kind of…
+
+00:18:03.000 --> 00:18:07.000
+Jennifer p: It's been all about discussing on the data itself.
+
+00:18:05.000 --> 00:18:09.000
+Jay Beladiya: I think after… after we dis… after we dis…
+
+00:18:05.000 --> 00:18:08.000
+Shiva Kumar Chary Valaboju: Oh, yeah. Yeah, yeah.
+
+00:18:08.000 --> 00:18:13.000
+Shiva Kumar Chary Valaboju: If you… if you see… oh, sorry for the trouble. If you see, like, every group project we have.
+
+00:18:13.000 --> 00:18:16.000
+Shiva Kumar Chary Valaboju: Yeah, it has a different kind of things, yeah.
+
+00:18:16.000 --> 00:18:25.000
+Jay Beladiya: Yeah, so it's like, it's not related, like, if we were doing data preprocessing in one, and then we're doing… building the model in the second one, and something like that, yeah.
+
+00:18:18.000 --> 00:18:22.000
+Shiva Kumar Chary Valaboju: Yeah, yeah, yeah. In, like, yeah…
+
+00:18:23.000 --> 00:18:25.000
+Shiva Kumar Chary Valaboju: Yeah, it's not related, though, yeah.
+
+00:18:26.000 --> 00:18:33.000
+Shiva Kumar Chary Valaboju: In, like, in, like, Module 5, he said that select a paper, and start working on the paper, and…
+
+00:18:26.000 --> 00:18:28.000
+Jay Beladiya: So, oh…
+
+00:18:33.000 --> 00:18:35.000
+Shiva Kumar Chary Valaboju: Give your feedback, that's what he's saying.
+
+00:18:35.000 --> 00:18:41.000
+Jay Beladiya: Yeah, and then I think for this one, it's, uh… so, if we select one.
+
+00:18:36.000 --> 00:18:38.000
+Shiva Kumar Chary Valaboju: Yeah, yeah, there is no relation.
+
+00:18:39.000 --> 00:18:42.000
+Shiva Kumar Chary Valaboju: Purely based on the biasness, yeah.
+
+00:18:41.000 --> 00:18:51.000
+Jay Beladiya: we select one database, and then each one of us has different code files on the GitHub that I just invited. I'm yet to invite Divya yet, but I'll do it later.
+
+00:18:51.000 --> 00:18:57.000
+Jay Beladiya: But I think that's what he wants us to do. Four code files and one single Google document on the GitHub.
+
+00:18:58.000 --> 00:19:01.000
+Jennifer p: Okay.
+
+00:19:00.000 --> 00:19:01.000
+Jay Beladiya: Right?
+
+00:19:01.000 --> 00:19:03.000
+Jennifer p: Yeah.
+
+00:19:03.000 --> 00:19:06.000
+Jay Beladiya: Because, uh…
+
+00:19:04.000 --> 00:19:16.000
+Jennifer p: I think as far as, like, the game plan, yeah, I think what you're talking about with GitHub, we need to kind of make sure that we're all participating in it, but we need to, like, make a game plan on who's.
+
+00:19:13.000 --> 00:19:15.000
+Jay Beladiya: Yeah.
+
+00:19:16.000 --> 00:19:21.000
+Jennifer p: doing what, and… you know what I mean? And give ourselves timelines and stuff like that.
+
+00:19:21.000 --> 00:19:25.000
+Jay Beladiya: Yeah, so I think the main… yeah, go ahead.
+
+00:19:22.000 --> 00:19:30.000
+Jennifer p: Um, but what I wanted to say is about the data, like, I don't think this whole project is making some huge.
+
+00:19:30.000 --> 00:19:39.000
+Jennifer p: philosophical giant leap and bounds with data. I think we're just… this whole project is about bias, as we're… when he wants us to do a little bit of coding to kind of.
+
+00:19:32.000 --> 00:19:34.000
+Jay Beladiya: Yeah. Yep.
+
+00:19:40.000 --> 00:19:50.000
+Jennifer p: give something… some… some breadth to this project about… about bias. I don't think we're supposed to wow the professor with some.
+
+00:19:50.000 --> 00:19:58.000
+Jennifer p: fantastic data working computer knowledge, necessarily. It's more based on… I mean, it's an ethics class, it's not…
+
+00:19:51.000 --> 00:19:53.000
+Jay Beladiya: Yeah.
+
+00:19:58.000 --> 00:20:05.000
+Jay Beladiya: Yeah, it's not a coding class. It's not a coding class. Well, I think, yeah, I think the next week's readings are on biases and stuff.
+
+00:19:58.000 --> 00:20:01.000
+Jennifer p: You know what I mean? I think… yeah.
+
+00:20:06.000 --> 00:20:07.000
+Jennifer p: Mm-hmm.
+
+00:20:07.000 --> 00:20:14.000
+Jay Beladiya: So, we can pick whatever… if you want to discuss now, and pick one now, because I think, uh, what's left is…
+
+00:20:14.000 --> 00:20:21.000
+Jay Beladiya: Individually, we're supposed to do the code files, but that will be after the database… the data… yeah, the dataset we select.
+
+00:20:21.000 --> 00:20:31.000
+Jay Beladiya: And then for the Google Doc, I think that's what we're supposed to do, like, everyone has to contribute to the document. It says minimum 5 pages, I think.
+
+00:20:22.000 --> 00:20:24.000
+Jennifer p: Right.
+
+00:20:32.000 --> 00:20:34.000
+Jennifer p: Right.
+
+00:20:32.000 --> 00:20:37.000
+Jay Beladiya: So that's where we need to set, uh, deadlines and everything as well.
+
+00:20:36.000 --> 00:20:38.000
+Jennifer p: Yeah.
+
+00:20:37.000 --> 00:20:39.000
+sukanya: Yeah.
+
+00:20:40.000 --> 00:20:45.000
+Jay Beladiya: So, I think, uh, somebody will have to create a Google document, I can do that.
+
+00:20:45.000 --> 00:20:50.000
+Jay Beladiya: If y'all want to, and then upload it on the GitHub.
+
+00:20:51.000 --> 00:20:59.000
+Jennifer p: Okay, that's fine. I mean, if you want to, I can too, I mean, I just… we don't know what to start with it until we have a project.
+
+00:20:59.000 --> 00:21:05.000
+Jay Beladiya: I mean, until we have… until we don't have a data set, we can't do anything, but I think we're on time.
+
+00:20:59.000 --> 00:21:01.000
+Jennifer p: I'd like to start with it.
+
+00:21:03.000 --> 00:21:05.000
+Jennifer p: Right.
+
+00:21:06.000 --> 00:21:13.000
+Jay Beladiya: We just need a data set now, and then we have 7 days for the document, the report, and the code. So, we should be good.
+
+00:21:12.000 --> 00:21:14.000
+Jennifer p: Mm-hmm.
+
+00:21:13.000 --> 00:21:16.000
+Jay Beladiya: If we select a data set tomorrow.
+
+00:21:15.000 --> 00:21:17.000
+Jennifer p: Right, okay.
+
+00:21:17.000 --> 00:21:19.000
+Shiva Kumar Chary Valaboju: So, what are you guys gonna think, like…
+
+00:21:19.000 --> 00:21:22.000
+Shiva Kumar Chary Valaboju: I'm okay with any data sets, I can go ahead with any one.
+
+00:21:22.000 --> 00:21:32.000
+Jay Beladiya: I'm… I'm gonna… okay, I'll start. So, as for, uh, Jennifer's data set, I think, yeah, she said it's kind of common.
+
+00:21:23.000 --> 00:21:25.000
+Jennifer p: Okay.
+
+00:21:32.000 --> 00:21:38.000
+Jay Beladiya: Uh, so, I was thinking more, like, maybe Shiva's dataset, if it has…
+
+00:21:38.000 --> 00:21:43.000
+Jay Beladiya: if it's, like, too complex, like, the code gets to… because I know I've done image processing.
+
+00:21:43.000 --> 00:21:49.000
+Jay Beladiya: And stuff on the data set for a model, and it takes a lot of coding and time.
+
+00:21:49.000 --> 00:21:51.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:21:49.000 --> 00:21:55.000
+Jay Beladiya: So, if it's, like, uh, the data is already clean and everything, I don't mind, uh, doing that.
+
+00:21:55.000 --> 00:22:06.000
+Jay Beladiya: Well, if it's, like, two, uh, like, uh, like, 500 lines of code you need to do before you even start proving the bias, I think that would be a poor choice for the… for this assignment, specifically.
+
+00:21:55.000 --> 00:21:58.000
+Jennifer p: Well…
+
+00:21:59.000 --> 00:22:01.000
+Jennifer p: Do you need…
+
+00:22:08.000 --> 00:22:19.000
+Jennifer p: Agreed. And I don't want to go against Shiva's… I know, like, you sound very, like, you really want to do it, but I don't want to jump into some huge, huge mess of a project if.
+
+00:22:16.000 --> 00:22:28.000
+Jay Beladiya: I'm not… yeah, I'm not saying it's not a good… I'm not saying it's not a good idea, but it's a really great idea, as long as it's in the time frame, because we only have 7 days, and I don't want to write a thousand lines of code.
+
+00:22:26.000 --> 00:22:28.000
+Jennifer p: Right.
+
+00:22:28.000 --> 00:22:33.000
+Jay Beladiya: And then start writing another few lines of code to prove the bias.
+
+00:22:33.000 --> 00:22:35.000
+Jennifer p: Right.
+
+00:22:34.000 --> 00:22:39.000
+Jay Beladiya: Plus, we have to write the report, too, so if it's already clean, I don't mind working with it.
+
+00:22:39.000 --> 00:22:47.000
+Jay Beladiya: And if we go with mine, too, I'm fine with that, too. Uh, in that case, all of us can just pick one type of bias and prove it, so that way…
+
+00:22:47.000 --> 00:22:53.000
+Jay Beladiya: We have 4 different types of biases in the group… in the report that we can write about.
+
+00:22:54.000 --> 00:22:56.000
+Shiva Kumar Chary Valaboju: Yep, I'm okay with that.
+
+00:22:55.000 --> 00:22:57.000
+sukanya: Okay.
+
+00:22:57.000 --> 00:23:03.000
+Jay Beladiya: I haven't seen… I haven't seen Divya's, uh, dataset yet, so I'll just take a quick look.
+
+00:22:57.000 --> 00:22:59.000
+Jennifer p: Okay, so…
+
+00:23:01.000 --> 00:23:03.000
+Jennifer p: Really?
+
+00:23:02.000 --> 00:23:05.000
+sukanya: Yeah, I will… I will send it to you after ending this meeting.
+
+00:23:05.000 --> 00:23:07.000
+Jennifer p: Okay.
+
+00:23:06.000 --> 00:23:08.000
+Jay Beladiya: So we're deciding tomorrow, then?
+
+00:23:08.000 --> 00:23:16.000
+Jennifer p: Yeah. But, Diva, you have homework to send us the data set as soon as possible, so we can actually get a look at it, okay?
+
+00:23:08.000 --> 00:23:10.000
+sukanya: Yes.
+
+00:23:09.000 --> 00:23:11.000
+Jay Beladiya: Okay.
+
+00:23:13.000 --> 00:23:17.000
+sukanya: Yes, yes, I'll do that.
+
+00:23:16.000 --> 00:23:18.000
+Jay Beladiya: Yeah.
+
+00:23:17.000 --> 00:23:19.000
+Jennifer p: Okay.
+
+00:23:18.000 --> 00:23:24.000
+Jay Beladiya: Uh, does anyone else have any views about what we're… what dataset you want to pick, or…
+
+00:23:24.000 --> 00:23:26.000
+Jay Beladiya: Is this…
+
+00:23:26.000 --> 00:23:31.000
+Jennifer p: Um, I am interested to see what Devia's is, but…
+
+00:23:31.000 --> 00:23:40.000
+Jennifer p: I am leaning towards something that is relatively simpler, and that is known… known bias. Like, I know…
+
+00:23:37.000 --> 00:23:39.000
+Jay Beladiya: Yes.
+
+00:23:40.000 --> 00:23:47.000
+Jennifer p: I know, Shiva, what you said, that healthcare data in general, it has bias, and I understand what you're explaining, but.
+
+00:23:47.000 --> 00:23:58.000
+Jennifer p: I just want it to be… I don't want to… I don't want to try and… and… and suffer to try to find a bias that we know must be there, but we don't know if what it is or where it is.
+
+00:23:47.000 --> 00:23:49.000
+Shiva Kumar Chary Valaboju: I got it, no problem.
+
+00:23:54.000 --> 00:23:56.000
+Shiva Kumar Chary Valaboju: Yes.
+
+00:23:56.000 --> 00:24:04.000
+Shiva Kumar Chary Valaboju: Yeah, it's actually very complex for these kind of, but actually, we don't need to do those complex things, so…
+
+00:24:03.000 --> 00:24:09.000
+Jennifer p: But we might… yeah, we might be able to use these… these ideas for a future project.
+
+00:24:04.000 --> 00:24:09.000
+Shiva Kumar Chary Valaboju: Okay, no problem. I'm actually going to go ahead with Jay's data set.
+
+00:24:09.000 --> 00:24:13.000
+Shiva Kumar Chary Valaboju: Yeah, actually, I'm thinking to go ahead with the Jays dataset.
+
+00:24:13.000 --> 00:24:15.000
+Jennifer p: Mm-hmm.
+
+00:24:13.000 --> 00:24:15.000
+Shiva Kumar Chary Valaboju: I'm okay with that.
+
+00:24:15.000 --> 00:24:22.000
+Jay Beladiya: Yeah, so, but it just requires a little bit more resources, that's kind of it. The code is small, I tried it.
+
+00:24:22.000 --> 00:24:31.000
+Jay Beladiya: I figured out the biases, there's kind of a lot. We can pick any… any one or… well, one or two, whatever you guys want, whatever you guys decide.
+
+00:24:32.000 --> 00:24:37.000
+Jay Beladiya: But, yeah, there's kind of a lot of entries there. It's probably around 2 million or something.
+
+00:24:38.000 --> 00:24:42.000
+Jay Beladiya: So, just a heads up, if you guys still want to go with my dataset.
+
+00:24:38.000 --> 00:24:40.000
+Shiva Kumar Chary Valaboju: Yeah.
+
+00:24:40.000 --> 00:24:44.000
+Jennifer p: Maybe we can do a sample of it, if needed.
+
+00:24:44.000 --> 00:24:46.000
+Jay Beladiya: Yeah, we could do that, too.
+
+00:24:44.000 --> 00:24:48.000
+Shiva Kumar Chary Valaboju: I actually have looked at that. It's actually really good.
+
+00:24:48.000 --> 00:24:50.000
+Shiva Kumar Chary Valaboju: If you want, we can go ahead with that.
+
+00:24:50.000 --> 00:24:55.000
+Jay Beladiya: Because it's… I think it's, uh, NLP. It's not really a common topic.
+
+00:24:55.000 --> 00:24:57.000
+Shiva Kumar Chary Valaboju: Uh-huh.
+
+00:24:55.000 --> 00:24:57.000
+Jay Beladiya: Uh, and…
+
+00:24:57.000 --> 00:25:02.000
+Jay Beladiya: Well, as I said, it also has a lot of biases, so we can write different types of biases in the report.
+
+00:25:02.000 --> 00:25:05.000
+Jay Beladiya: Each one of us can pick one or two, so…
+
+00:25:04.000 --> 00:25:06.000
+Shiva Kumar Chary Valaboju: Yeah, yeah.
+
+00:25:05.000 --> 00:25:08.000
+Jay Beladiya: It'll probably be easier to fill 5 pages with that.
+
+00:25:08.000 --> 00:25:10.000
+Jennifer p: That's true.
+
+00:25:11.000 --> 00:25:16.000
+Jay Beladiya: So, I will… we can decide tomorrow after looking at, uh, Divya's…
+
+00:25:16.000 --> 00:25:19.000
+Jay Beladiya: Dataset, after she sends it.
+
+00:25:19.000 --> 00:25:29.000
+Jennifer p: Yeah, that sounds like a plan. So, if we don't have a chance in the actual class to decide, we can stay after class and have a real quick chat about it.
+
+00:25:29.000 --> 00:25:39.000
+Jay Beladiya: Okay, yeah, sounds good. And then, the Google Doc, I'll create it after we decide the dataset, if that's okay, because, well, we don't have anything to write anyways.
+
+00:25:31.000 --> 00:25:33.000
+Jennifer p: Oh.
+
+00:25:36.000 --> 00:25:38.000
+Jennifer p: Okay, that's fine.
+
+00:25:39.000 --> 00:25:41.000
+Jennifer p: Yeah.
+
+00:25:39.000 --> 00:25:47.000
+Jay Beladiya: And then, for the code… yeah, for the code files, well, each of us can upload their own, create their own, and then upload their own. I think that's what we're supposed to do.
+
+00:25:48.000 --> 00:25:50.000
+Jennifer p: Okay. That sounds good.
+
+00:25:49.000 --> 00:25:51.000
+sukanya: Okay.
+
+00:25:49.000 --> 00:25:51.000
+Jay Beladiya: So… okay.
+
+00:25:50.000 --> 00:25:56.000
+Shiva Kumar Chary Valaboju: I have just gone with the data bias project instructions, so he's saying that.
+
+00:25:56.000 --> 00:26:01.000
+Shiva Kumar Chary Valaboju: We need to create a document, Google Doc, and we need to…
+
+00:26:01.000 --> 00:26:06.000
+Shiva Kumar Chary Valaboju: Do the coding, visualization, statistical analysis, and reviewing others' works.
+
+00:26:06.000 --> 00:26:09.000
+Shiva Kumar Chary Valaboju: And he's also saying that we need to do…
+
+00:26:09.000 --> 00:26:14.000
+Shiva Kumar Chary Valaboju: Git, we need to do git commits, git push…
+
+00:26:14.000 --> 00:26:18.000
+Shiva Kumar Chary Valaboju: Do some changes, commit the changes.
+
+00:26:19.000 --> 00:26:22.000
+Shiva Kumar Chary Valaboju: He's saying today a lot of things, actually.
+
+00:26:22.000 --> 00:26:30.000
+Jay Beladiya: I mean, I'm not reading the document, but, uh, what it says, summary of the steps of data bias projects, it's just…
+
+00:26:31.000 --> 00:26:36.000
+Jay Beladiya: Write a report, conduct the analysis, write the report, submit the deliverables, that's kind of it.
+
+00:26:37.000 --> 00:26:45.000
+Jay Beladiya: So, well, basically, you're just supposed to code, prove the bias, write what kind of bias it is, and how you came to it, whatever.
+
+00:26:45.000 --> 00:26:48.000
+Jay Beladiya: And… but I think that's kind of it.
+
+00:26:46.000 --> 00:26:53.000
+Shiva Kumar Chary Valaboju: And actually, he's asking every week summaries. You haven't… if you… if you have checked it.
+
+00:26:53.000 --> 00:27:00.000
+Shiva Kumar Chary Valaboju: He said that you need to upload the week A.PDF and week B.PDF to the GitHubs.
+
+00:27:00.000 --> 00:27:04.000
+Shiva Kumar Chary Valaboju: And we need to upload the GitHub links.
+
+00:27:04.000 --> 00:27:09.000
+Jay Beladiya: But what is the weekA.PDF? What are we supposed to include inside?
+
+00:27:04.000 --> 00:27:06.000
+Shiva Kumar Chary Valaboju: And…
+
+00:27:07.000 --> 00:27:09.000
+Shiva Kumar Chary Valaboju: Actually, so…
+
+00:27:09.000 --> 00:27:11.000
+Jay Beladiya: Let me open it, too.
+
+00:27:10.000 --> 00:27:20.000
+Shiva Kumar Chary Valaboju: So, like, he… if you see the submit the final deliveries, he's saying that you need to do the final report, like, we need to do everything to the GitHub, and we need to upload the GitHub links.
+
+00:27:21.000 --> 00:27:29.000
+Jay Beladiya: Collaboration summaries to GitHub and the Dropbox. You may add your own document about what was missed in the AI summaries.
+
+00:27:30.000 --> 00:27:36.000
+Jay Beladiya: Oh, I think it's just a transcript of what we're discussing right now, so this would be… this would probably… this would probably be week A, then.
+
+00:27:32.000 --> 00:27:34.000
+Shiva Kumar Chary Valaboju: Yeah. For every week, yeah, that's what…
+
+00:27:36.000 --> 00:27:40.000
+Shiva Kumar Chary Valaboju: Yeah, that's what. It's a VK, and…
+
+00:27:40.000 --> 00:27:47.000
+Shiva Kumar Chary Valaboju: We're gonna do that, like, couple days after, and we're gonna discuss, and we do, like, couple days, like, we do, like, one more hour.
+
+00:27:47.000 --> 00:27:52.000
+Shiva Kumar Chary Valaboju: One more hour and we can discuss, and we need to start it right now.
+
+00:27:50.000 --> 00:27:57.000
+Jay Beladiya: Yeah, we can… we can do another meeting after, maybe next week on Sunday, or whenever everyone's free.
+
+00:27:57.000 --> 00:28:08.000
+Jay Beladiya: And they've done their assignments, or coding, whatever, and then we can, uh, discuss the report. I think, um, Sunday would be optimal, because it's kind of in the middle.
+
+00:27:57.000 --> 00:27:59.000
+Jennifer p: Yeah.
+
+00:28:04.000 --> 00:28:06.000
+Jennifer p: Right.
+
+00:28:08.000 --> 00:28:10.000
+Jennifer p: Yeah.
+
+00:28:09.000 --> 00:28:19.000
+Jay Beladiya: Sunday or Monday, so we have enough time to code, and then also to write the summaries. If y'all want to go ahead and write the summaries, and then discuss, that's probably also be a good idea.
+
+00:28:20.000 --> 00:28:30.000
+Shiva Kumar Chary Valaboju: So, yeah. So, actually, I got a game plan right now. So, if we… if we are… everything is okay, we're gonna go ahead with the JS dataset, and we're gonna do the splittings, like.
+
+00:28:28.000 --> 00:28:30.000
+Jay Beladiya: Okay.
+
+00:28:30.000 --> 00:28:32.000
+Shiva Kumar Chary Valaboju: Someone will take…
+
+00:28:32.000 --> 00:28:36.000
+Shiva Kumar Chary Valaboju: Uh, where is that? Where is that? Where is that? I just forgot that.
+
+00:28:38.000 --> 00:28:40.000
+Shiva Kumar Chary Valaboju: Oh, damn, I just lost it.
+
+00:28:41.000 --> 00:28:52.000
+Shiva Kumar Chary Valaboju: Like, as I said that, you need to do… oh yeah, someone will take, like, coding part, someone will do, like, visualization part, someone will do, like, analysis part, and we… everyone needs to know their, like.
+
+00:28:53.000 --> 00:28:58.000
+Shiva Kumar Chary Valaboju: If someone's gonna do the coding part, and if someone does a visualization, if someone does a statistical analysis.
+
+00:28:58.000 --> 00:29:03.000
+Shiva Kumar Chary Valaboju: you need to know everything, like, that's what he mentioned in the last meeting. So, like.
+
+00:29:03.000 --> 00:29:04.000
+Jennifer p: Mm-hmm.
+
+00:29:03.000 --> 00:29:13.000
+Shiva Kumar Chary Valaboju: he gonna pick up only one person in a group, and he gonna ask everything. So, like, he need to have an idea on coding, and he needs to have an idea on visualization. What's going on, actually?
+
+00:29:03.000 --> 00:29:05.000
+Jay Beladiya: Yeah.
+
+00:29:06.000 --> 00:29:08.000
+Jay Beladiya: Person from our group, yeah.
+
+00:29:08.000 --> 00:29:10.000
+Jennifer p: Right.
+
+00:29:14.000 --> 00:29:19.000
+Shiva Kumar Chary Valaboju: So, like, that's what we're gonna do that in the… I think it's in the Google Docs thing, like.
+
+00:29:19.000 --> 00:29:27.000
+Shiva Kumar Chary Valaboju: hey, we have done these changes, like, who done that, who's done this for the record purpose, and we need to do that, everything we're gonna do pushing it to the GitHub.
+
+00:29:19.000 --> 00:29:21.000
+Jay Beladiya: Yeah.
+
+00:29:27.000 --> 00:29:32.000
+Shiva Kumar Chary Valaboju: And it shows that we are working on a project. So I think…
+
+00:29:32.000 --> 00:29:36.000
+Shiva Kumar Chary Valaboju: If Devia sends the datasets, we need to…
+
+00:29:34.000 --> 00:29:39.000
+sukanya: Yeah, um, I'm sending one… one link right now, just… I really don't know what…
+
+00:29:40.000 --> 00:29:46.000
+sukanya: Uh, there are… there are a lot of data set in that repository. Can you please check that, like, which one is…
+
+00:29:46.000 --> 00:29:49.000
+sukanya: Like, uh, good food, too.
+
+00:29:49.000 --> 00:29:51.000
+Jennifer p: We're… I mean…
+
+00:29:50.000 --> 00:29:53.000
+sukanya: Yeah, I see.
+
+00:29:51.000 --> 00:29:54.000
+Shiva Kumar Chary Valaboju: That's what… that's the same project we have sent it.
+
+00:29:54.000 --> 00:29:56.000
+sukanya: Oh, really? Okay.
+
+00:29:55.000 --> 00:29:58.000
+Shiva Kumar Chary Valaboju: Yeah. So, actually.
+
+00:29:56.000 --> 00:30:02.000
+sukanya: And also, I have one of that is, like, watch Jennifer send it to me, so that's why I didn't send it yet.
+
+00:30:00.000 --> 00:30:06.000
+Shiva Kumar Chary Valaboju: So, actually, Devia, the thing is, you have any data sets in your mind that you want to really do?
+
+00:30:07.000 --> 00:30:09.000
+sukanya: No.
+
+00:30:09.000 --> 00:30:15.000
+Shiva Kumar Chary Valaboju: So, like, if you have any particular data sets that you're gonna work on, so we'll review those data sets, and we can go ahead.
+
+00:30:09.000 --> 00:30:11.000
+sukanya: It's just…
+
+00:30:15.000 --> 00:30:19.000
+Shiva Kumar Chary Valaboju: Otherwise, we can go ahead with this someone's data sets right now.
+
+00:30:19.000 --> 00:30:22.000
+sukanya: Yeah, we can go ahead with someone, click.
+
+00:30:20.000 --> 00:30:22.000
+Jennifer p: Goodbye.
+
+00:30:25.000 --> 00:30:30.000
+Jennifer p: Can I make a suggestion? Because it's been… our meeting's been half an hour, actually.
+
+00:30:30.000 --> 00:30:32.000
+Jay Beladiya: Yeah, go ahead.
+
+00:30:30.000 --> 00:30:36.000
+Jennifer p: Um, I have a friend here, and I figured this meeting would only take half an hour, so I actually have to end the meeting.
+
+00:30:36.000 --> 00:30:38.000
+Shiva Kumar Chary Valaboju: Yeah, sure. No problem.
+
+00:30:37.000 --> 00:30:43.000
+Jennifer p: Um, so since we already discussed deciding, ultimately, on the data set by tomorrow, can we just…
+
+00:30:43.000 --> 00:30:50.000
+Jay Beladiya: Yes, yes, I… yeah. Also, I think I have a couple questions, but we can… we'll… I'll ask them tomorrow, so…
+
+00:30:43.000 --> 00:30:45.000
+Jennifer p: And with that, for now.
+
+00:30:50.000 --> 00:30:55.000
+Jay Beladiya: Well, we have a lot of time. We have 4 minutes to discuss, I think that should be enough for the questions.
+
+00:30:54.000 --> 00:30:56.000
+Jennifer p: Okay.
+
+00:30:56.000 --> 00:30:58.000
+Jay Beladiya: So, I think that's it, right?
+
+00:30:56.000 --> 00:31:00.000
+Jennifer p: So, what I can… what we can do between…
+
+00:31:00.000 --> 00:31:10.000
+Jennifer p: I don't have a lot of time between now and tomorrow, because I have work and then class, but if I had more time, I would… I would try to explore the data set more, or Jay specifically, but…
+
+00:31:10.000 --> 00:31:15.000
+Jennifer p: Um, when Devia sends hers, I'll look at those more, too, but, um…
+
+00:31:16.000 --> 00:31:20.000
+Jennifer p: But tomorrow, we'll make a more complex game plan.
+
+00:31:20.000 --> 00:31:22.000
+Jay Beladiya: Yes, I think that's…
+
+00:31:21.000 --> 00:31:23.000
+Jennifer p: And just… and ultimately decide.
+
+00:31:22.000 --> 00:31:24.000
+Jay Beladiya: Yeah, that's a good plan.
+
+00:31:24.000 --> 00:31:30.000
+Jay Beladiya: Well, uh, I don't want to keep you on your birthday, so have fun.
+
+00:31:27.000 --> 00:31:34.000
+Jennifer p: Alright. Sorry, guys, I was… I was like, for sure this is only gonna take half an hour, just give me a minute, you know?
+
+00:31:32.000 --> 00:31:37.000
+Jay Beladiya: Yeah, that's fine, that's fine. Well, we'll decide tomorrow.
+
+00:31:34.000 --> 00:31:36.000
+Jennifer p: Okay.
+
+00:31:37.000 --> 00:31:39.000
+Jennifer p: Alright.
+
+00:31:37.000 --> 00:31:39.000
+Jay Beladiya: Okay. Alright.
+
+00:31:37.000 --> 00:31:39.000
+sukanya: Okay.
+
+00:31:39.000 --> 00:31:41.000
+Jennifer p: Bye.
+
+00:31:40.000 --> 00:31:42.000
+Jay Beladiya: Bye.
+
+00:31:40.000 --> 00:31:42.000
+sukanya: Okay, bye bye.
+
+00:31:42.000 --> 00:31:43.000
+Shiva Kumar Chary Valaboju: Bye guys.
+
