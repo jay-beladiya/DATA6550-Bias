@@ -1,0 +1,1438 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.160
+Jennifer p: I was just trying to use GitHub.com, like, normal.
+
+2
+00:00:03.160 --> 00:00:08.150
+Jay Beladiya: You can use the desktop application, it's way easier on that.
+
+3
+00:00:09.270 --> 00:00:11.469
+Jennifer p: It's way easier than GitHub.com.
+
+4
+00:00:11.780 --> 00:00:13.500
+Jay Beladiya: Oh, yeah. Definitely.
+
+5
+00:00:13.500 --> 00:00:18.300
+Jennifer p: I'll download it, I just… I don't have it downloaded, I just thought I could do it online, and I was like…
+
+6
+00:00:18.300 --> 00:00:18.910
+Jay Beladiya: Yeah, it's pretty.
+
+7
+00:00:18.910 --> 00:00:19.730
+Jennifer p: It wasn't true.
+
+8
+00:00:19.730 --> 00:00:25.150
+Jay Beladiya: You can just watch a video on YouTube or something, and you'll figure it out in one… in one go.
+
+9
+00:00:25.830 --> 00:00:41.459
+Jennifer p: Right, no, I've been watching YouTube videos, and it's just… I don't know, some of the YouTube videos are maybe a little bit too confusing, I don't know. I'll figure it out eventually, but that's what I've been trying to do, is trying to share the file that I created of…
+
+10
+00:00:41.460 --> 00:00:42.280
+Shiva Kumar Chary Valaboju: Yeah, he's like…
+
+11
+00:00:42.280 --> 00:00:43.439
+Jennifer p: storing the data?
+
+12
+00:00:43.440 --> 00:00:46.040
+Shiva Kumar Chary Valaboju: Did you install the Git in your system?
+
+13
+00:00:48.450 --> 00:00:50.379
+Jennifer p: I have not installed anything yet.
+
+14
+00:00:50.380 --> 00:00:52.670
+Shiva Kumar Chary Valaboju: So you need to install the GIP first, though.
+
+15
+00:00:54.190 --> 00:00:56.819
+Jennifer p: Okay, that's what I mean. I thought that I could do it on.
+
+16
+00:00:56.820 --> 00:01:03.479
+Shiva Kumar Chary Valaboju: mine, but apparently… If you're trying to do it from your laptop, or from your folder, you need to have Git…
+
+17
+00:01:03.700 --> 00:01:04.960
+Shiva Kumar Chary Valaboju: First, in your…
+
+18
+00:01:05.319 --> 00:01:12.960
+Shiva Kumar Chary Valaboju: system, and you can do the git commit. Actually, git commit and push are really easy, then everything.
+
+19
+00:01:14.150 --> 00:01:14.830
+Jennifer p: Okay.
+
+20
+00:01:15.050 --> 00:01:27.100
+Shiva Kumar Chary Valaboju: If you, like, if you have any changes in your IPMB code, it's easy, like, you need to just pull the code, like, pull the link, and you can git add, git commit, and git push.
+
+21
+00:01:27.100 --> 00:01:37.130
+Shiva Kumar Chary Valaboju: It's boom, that's it. It's easy, pretty easy, but if you're, like, confused us on those things, though, you can do the desktop, GitHub desktop. It's really… it's also really cool, actually.
+
+22
+00:01:37.980 --> 00:01:40.190
+Jay Beladiya: It's pretty… it's okay, you'll figure it out, it's kind of… it's pretty…
+
+23
+00:01:40.190 --> 00:01:40.980
+Shiva Kumar Chary Valaboju: So…
+
+24
+00:01:41.040 --> 00:01:44.060
+Jennifer p: Okay. So actually, I just thought of asking, like.
+
+25
+00:01:44.060 --> 00:01:51.830
+Shiva Kumar Chary Valaboju: I have uploaded all the files in the GitHub. As you can see, a data folder, I just uploaded all the files.
+
+26
+00:01:52.540 --> 00:01:55.010
+Shiva Kumar Chary Valaboju: And I think we are right now gone…
+
+27
+00:01:55.190 --> 00:01:59.589
+Shiva Kumar Chary Valaboju: do everything on the train.csv. Is it right, Jay?
+
+28
+00:02:00.610 --> 00:02:01.570
+Jay Beladiya: Sorry, what?
+
+29
+00:02:01.570 --> 00:02:04.419
+Shiva Kumar Chary Valaboju: So, like, we are working on the train CSV, right?
+
+30
+00:02:04.420 --> 00:02:05.070
+Jay Beladiya: Yeah, I agree.
+
+31
+00:02:05.070 --> 00:02:05.639
+Shiva Kumar Chary Valaboju: Are we gonna.
+
+32
+00:02:05.640 --> 00:02:08.340
+Jay Beladiya: Or we could use, all data, or…
+
+33
+00:02:08.550 --> 00:02:12.380
+Jay Beladiya: Something… or both of… each of… either one is fine.
+
+34
+00:02:12.820 --> 00:02:18.829
+Shiva Kumar Chary Valaboju: So, like, actually, I just figured on every data, and I've just done some… pretty some analysis, like.
+
+35
+00:02:18.980 --> 00:02:26.420
+Shiva Kumar Chary Valaboju: And training dataset is, like, the one… which is, like, the primary one we need to figure out, the biases or something.
+
+36
+00:02:26.420 --> 00:02:29.130
+Jay Beladiya: Okay, before we start, can I say something?
+
+37
+00:02:29.270 --> 00:02:29.980
+Shiva Kumar Chary Valaboju: Yeah?
+
+38
+00:02:30.370 --> 00:02:40.869
+Jay Beladiya: So, I haven't started yet, because I was busy all day, but I will… I was planning on doing it on Saturday, because I thought we were going to have the meeting on Sunday, but I'll definitely look at it.
+
+39
+00:02:40.870 --> 00:02:45.780
+Shiva Kumar Chary Valaboju: Actually, the reason for these meetings are, like, for transcripts, the first thing.
+
+40
+00:02:46.330 --> 00:02:53.489
+Shiva Kumar Chary Valaboju: Oh, okay, okay, okay. Yeah, for the transcripts. And second thing is, like, for getting a basic idea on the dataset. Like, what…
+
+41
+00:02:53.490 --> 00:02:54.030
+Jay Beladiya: Yeah.
+
+42
+00:02:54.030 --> 00:03:01.089
+Shiva Kumar Chary Valaboju: like, each anyone, like, some are… Jennifer has some insights, or me has some insights, or someone asks him and says, because…
+
+43
+00:03:01.280 --> 00:03:10.249
+Shiva Kumar Chary Valaboju: it's gonna be a pretty big task for us, for this group project, so… I don't think, like, lagging for a Sunday someday is gonna be working out. Like, someone should.
+
+44
+00:03:10.250 --> 00:03:11.000
+Jay Beladiya: Yeah, I think…
+
+45
+00:03:11.000 --> 00:03:14.870
+Shiva Kumar Chary Valaboju: Or do something, otherwise it's gonna be a pretty big…
+
+46
+00:03:15.540 --> 00:03:20.929
+Shiva Kumar Chary Valaboju: thing for us, though. That's what I'm in, and that's why I'm taking initiation and doing that. Take your.
+
+47
+00:03:20.930 --> 00:03:21.770
+Jay Beladiya: Yeah, yeah.
+
+48
+00:03:21.770 --> 00:03:24.630
+Shiva Kumar Chary Valaboju: Take your time and do your analysis, that's your wish.
+
+49
+00:03:24.780 --> 00:03:28.100
+Shiva Kumar Chary Valaboju: Let's have a meeting whenever we have, like, a couple minutes or something.
+
+50
+00:03:28.510 --> 00:03:30.439
+Shiva Kumar Chary Valaboju: It's due for transcripts or something.
+
+51
+00:03:30.780 --> 00:03:45.740
+Jay Beladiya: We can do… I think, let's… let's do one thing. Whoever has done it, today, they can just share what they found out, and what maybe they're gonna do next, or… and we can discuss what… what way we want to take, and then we can have another meeting on Monday.
+
+52
+00:03:45.740 --> 00:03:46.330
+Shiva Kumar Chary Valaboju: Sure.
+
+53
+00:03:46.330 --> 00:04:01.760
+Jay Beladiya: That would be, like, I think two days away from the submission date. I think that's optimal. And then, between these two days, maybe we can write at least a rough report, or whatever, and then we can do the final touches in the last days, maybe. Something like that.
+
+54
+00:04:02.000 --> 00:04:06.180
+Shiva Kumar Chary Valaboju: Did you invite a professor to a GitHub repository? Like, did you add him as a collaborator?
+
+55
+00:04:06.410 --> 00:04:14.910
+Jay Beladiya: It did not say we had to, but I will do it if needed. Because I invited him on the Google Doc, because it said that we had to. I didn't see it on the…
+
+56
+00:04:14.910 --> 00:04:26.699
+Shiva Kumar Chary Valaboju: I'll do that for Google, like, GitHub as well, and I will do a submission today for that weekA.PDF transcripts, and I will upload the GitHub
+
+57
+00:04:26.810 --> 00:04:29.569
+Shiva Kumar Chary Valaboju: Repository offers as a command.
+
+58
+00:04:29.700 --> 00:04:39.380
+Shiva Kumar Chary Valaboju: And for the next week, we'll do, like, this transcript for this transcript, whatever the transcript's gonna come for this one, and we'll paste the Google Doc link over there.
+
+59
+00:04:39.690 --> 00:04:41.579
+Shiva Kumar Chary Valaboju: And we'll have a couple for the name.
+
+60
+00:04:41.580 --> 00:04:48.819
+sukanya: Just a quick confirmation, so we have to create a, I mean, separate analysis, right, for each of us.
+
+61
+00:04:49.250 --> 00:04:50.080
+Shiva Kumar Chary Valaboju: Yes.
+
+62
+00:04:50.080 --> 00:04:51.200
+sukanya: Yeah, okay.
+
+63
+00:04:51.440 --> 00:04:55.729
+Shiva Kumar Chary Valaboju: So, like, what I'm thinking is, like, everyone should have their own analysis.
+
+64
+00:04:55.760 --> 00:05:08.010
+Shiva Kumar Chary Valaboju: And the final day, or before the final submission, we need to figure out the actual biologyness for the group project. What I'm talking is group project. Like, we need to make a meeting for a couple hours.
+
+65
+00:05:08.010 --> 00:05:16.480
+Shiva Kumar Chary Valaboju: We figured out what's happening and what's we're gonna do final, and we'll submit a group project based on the final submission on the… based on everyone's review.
+
+66
+00:05:16.820 --> 00:05:17.890
+Jay Beladiya: And.
+
+67
+00:05:17.890 --> 00:05:24.940
+Shiva Kumar Chary Valaboju: we're gonna do our own analysis, submissions in our individual projects. Is that gonna be… works out, or do we have… we should.
+
+68
+00:05:24.940 --> 00:05:27.109
+Jay Beladiya: Yeah, I think that's fine. Also, I have one more.
+
+69
+00:05:27.110 --> 00:05:27.510
+sukanya: Question.
+
+70
+00:05:27.920 --> 00:05:32.980
+Jay Beladiya: Were we supposed to, give the links for GitHub and Google Doc today?
+
+71
+00:05:33.280 --> 00:05:36.680
+Jay Beladiya: I think I said something like that, but I don't know…
+
+72
+00:05:37.100 --> 00:05:46.070
+Shiva Kumar Chary Valaboju: Yeah, there wasn't, like, well, as per our classes yesterday, someone said that, how supposed we gonna submit our links? We should make a submission, so…
+
+73
+00:05:46.160 --> 00:06:00.589
+Shiva Kumar Chary Valaboju: he said that the professor says that submit, like, week A transcripts or week 2 transcripts, and make a comment on the transcript, like, submission, you can paste those links, it's gonna be working. We can do unlimited submissions for the group project for this right now.
+
+74
+00:06:00.590 --> 00:06:05.300
+Jay Beladiya: Okay, so I think you said you were gonna do the transcript, so can you also… Yeah, I'll paste a…
+
+75
+00:06:05.300 --> 00:06:07.379
+Shiva Kumar Chary Valaboju: GitHub link and the docs link over there.
+
+76
+00:06:07.380 --> 00:06:08.669
+Jay Beladiya: Yeah, okay, thank you.
+
+77
+00:06:08.910 --> 00:06:09.840
+Shiva Kumar Chary Valaboju: No problem, buddy.
+
+78
+00:06:10.210 --> 00:06:12.829
+Jennifer p: So, you guys are talking about D2L, right?
+
+79
+00:06:13.400 --> 00:06:13.930
+Shiva Kumar Chary Valaboju: Yeah, I'm talking…
+
+80
+00:06:13.930 --> 00:06:14.670
+Jay Beladiya: Yeah, yeah.
+
+81
+00:06:14.670 --> 00:06:15.270
+sukanya: It sounds fun.
+
+82
+00:06:15.730 --> 00:06:24.389
+Jennifer p: Okay. I just wanted to make sure someone was doing that part, but… I… can I just speak up? I… just because I have been trying to explore this data.
+
+83
+00:06:24.520 --> 00:06:31.320
+Jennifer p: I have a hard time trying to figure out how I'm going to… Have some sort of…
+
+84
+00:06:31.770 --> 00:06:42.320
+Jennifer p: analysis, like, from the data itself, like, how… I have a hard time trying to decide how I'm going to demonstrate the bias in the data.
+
+85
+00:06:43.290 --> 00:06:56.359
+Jay Beladiya: I think, the… I also looked it up on Google, I'm not gonna lie, because I didn't know how… what the steps are to, like, to show a bias or to prove a bias. It's… it's basically said data visualization.
+
+86
+00:06:56.540 --> 00:07:07.709
+Jay Beladiya: And one or two more things, I forgot, but I'll have to look it up again. But if you look it on Google, I think it'll show you, like, what are the ways you can prove it, and then I think it's easy to code from that.
+
+87
+00:07:09.450 --> 00:07:23.559
+Shiva Kumar Chary Valaboju: So yeah, actually, showing the biasness is nothing but, describing the desert, like, what are the lagging things, like, I think we have a lot of data over here, but one thing is, we have so many null values in the data size right now.
+
+88
+00:07:23.560 --> 00:07:39.139
+Shiva Kumar Chary Valaboju: Like, data… data lagging is one of a bias. Like, we don't have a structured data. We can take it as a first biasness, and we can do… cleaning the data sets, that's the first biasness we can do. And second thing is representation. Like, some datasets have,
+
+89
+00:07:39.250 --> 00:07:46.430
+Shiva Kumar Chary Valaboju: We're beginning to… Some attributes called, like, I'm also, like.
+
+90
+00:07:46.640 --> 00:07:59.800
+Shiva Kumar Chary Valaboju: gone through some Google, like, I just said that, what bias knows, it says that it has some identity attributes, lacking of identity attributes. We can do the visualizations on them, it's kind of fun by us, and
+
+91
+00:08:00.160 --> 00:08:03.530
+Shiva Kumar Chary Valaboju: As we are taking, like, toxicity,
+
+92
+00:08:03.730 --> 00:08:15.540
+Shiva Kumar Chary Valaboju: doing that toxicity, individual and identical toxicity, individual toxicity, we can represent on those things. Labeling the toxicity is one of the bias we can do.
+
+93
+00:08:15.630 --> 00:08:31.199
+Shiva Kumar Chary Valaboju: And, like, we can do pretty some biasnas on those. That's what I found today, like, I just did some analysis on the dataset, and I just found that train.csv has, like, a lot of data, and it has so many lot of biasnas in it.
+
+94
+00:08:31.220 --> 00:08:37.419
+Shiva Kumar Chary Valaboju: So as… that's why I'm asking, like, should we go ahead with the train.cs? Because I am going ahead with the train.cs.
+
+95
+00:08:37.429 --> 00:08:37.959
+Jennifer p: Yeah, I think.
+
+96
+00:08:37.960 --> 00:08:38.639
+sukanya: on it.
+
+97
+00:08:39.820 --> 00:08:40.990
+Jay Beladiya: Yeah, that sounds good.
+
+98
+00:08:40.990 --> 00:08:42.140
+sukanya: Yes, yeah.
+
+99
+00:08:42.140 --> 00:09:00.299
+Shiva Kumar Chary Valaboju: And it has some, gender inequalities as well, like, it has so many identical, groups, such as… it has so many groupings, like, we have male, female, Muslim, Jewish, Black, White, LGBTQ. It has so many info in it. We can do…
+
+100
+00:09:00.890 --> 00:09:01.560
+Jay Beladiya: So, I think…
+
+101
+00:09:01.560 --> 00:09:02.560
+Shiva Kumar Chary Valaboju: This is optimized.
+
+102
+00:09:02.560 --> 00:09:06.989
+Jay Beladiya: So, when I was looking for the dataset, So, there's, like…
+
+103
+00:09:07.130 --> 00:09:19.719
+Jay Beladiya: a lot of different kinds, like gender bias, racial bias, and there's many more. So, if y'all want, we can each pick one, and then, do a report on that, and then write it in the Google Doc.
+
+104
+00:09:20.410 --> 00:09:24.049
+Jay Beladiya: Or, we can just go with one, and then all four of us just do…
+
+105
+00:09:24.240 --> 00:09:28.829
+Jay Beladiya: one bias, and then we can write it in a Google Doc. Whatever works for you guys.
+
+106
+00:09:28.830 --> 00:09:30.459
+Shiva Kumar Chary Valaboju: Hmm, yeah, actually…
+
+107
+00:09:30.940 --> 00:09:40.440
+Shiva Kumar Chary Valaboju: if you ask me, let's do our individual things first, like, I'll go with my biasness, I'll do my visualizations, I'll do my analysis and everything.
+
+108
+00:09:41.320 --> 00:09:42.820
+Jay Beladiya: When it comes, like.
+
+109
+00:09:42.860 --> 00:09:58.589
+Shiva Kumar Chary Valaboju: Feb 11th, so it's gonna be, like, Feb 9. Maybe on Feb 9, we'll have a meet, or something, like, on China or something. Let's do our analysis, like, hey, I just found this, so that's my analysis. Everyone shares those, and we'll…
+
+110
+00:09:58.960 --> 00:10:07.520
+Shiva Kumar Chary Valaboju: divide the parts, like, we'll pick one, so, like, we'll pick something from me, something from Divya, something from yours, something from Jennifer's, and we'll do a final
+
+111
+00:10:07.920 --> 00:10:14.249
+Shiva Kumar Chary Valaboju: documentation, that's gonna be pretty good. Then, it's pretty easy for us to make our individual submission as well.
+
+112
+00:10:14.250 --> 00:10:14.890
+Jay Beladiya: Yeah.
+
+113
+00:10:15.260 --> 00:10:16.449
+Shiva Kumar Chary Valaboju: That's gonna happen.
+
+114
+00:10:16.840 --> 00:10:20.580
+sukanya: There's gonna be so many… yeah. Yeah, go ahead, Jennifer.
+
+115
+00:10:20.580 --> 00:10:26.650
+Jennifer p: Are we all supposed to do, like, a natural, like, a natural language processing model or something?
+
+116
+00:10:26.650 --> 00:10:27.370
+Shiva Kumar Chary Valaboju: Halloween.
+
+117
+00:10:27.370 --> 00:10:31.429
+Jay Beladiya: Whatever you… no, I don't think we're training a model, we're just exploring the data set.
+
+118
+00:10:31.430 --> 00:10:31.940
+Jennifer p: I don't…
+
+119
+00:10:31.940 --> 00:10:32.740
+sukanya: Miss.
+
+120
+00:10:33.390 --> 00:10:34.040
+Shiva Kumar Chary Valaboju: No, no.
+
+121
+00:10:34.040 --> 00:10:34.859
+Jennifer p: I think that's…
+
+122
+00:10:34.860 --> 00:10:36.740
+Shiva Kumar Chary Valaboju: I'm just wondering, actually.
+
+123
+00:10:37.840 --> 00:10:51.759
+Jennifer p: I don't think the fact that there are categories of male, female, etc, I don't think the fact that those categories exist makes it a biased data. The fact… the idea of this whole data set is to…
+
+124
+00:10:52.130 --> 00:11:02.799
+Jennifer p: Show how, like, Machine learning, like, if we were to try to… Make the machine learning
+
+125
+00:11:03.340 --> 00:11:06.589
+Jennifer p: Identify if comments are toxic or not.
+
+126
+00:11:06.960 --> 00:11:10.929
+Jennifer p: Like, the fact that there might be comments that reference
+
+127
+00:11:11.580 --> 00:11:25.149
+Jennifer p: male, female, lesbian, whatever, all those things might make it look like it's toxic when it's not, and someone might just be saying, oh yeah, I'm a, you know, I'm a white woman that lives in Wisconsin, or whatever. Like…
+
+128
+00:11:25.620 --> 00:11:34.939
+Jennifer p: So, like… Those identifiers are just saying that the people that went through this data just marked that this
+
+129
+00:11:35.350 --> 00:11:38.779
+Jennifer p: this… I don't know, identity was meant.
+
+130
+00:11:38.780 --> 00:11:48.929
+Shiva Kumar Chary Valaboju: I think, like, when it comes to me, my final summary would be, like, identifying a discriminative behavior with the data set, that's what I'm gonna do.
+
+131
+00:11:52.450 --> 00:12:03.490
+Shiva Kumar Chary Valaboju: discriminated behaviors with data sets. That's what I'm planning to do, but I don't know, like, let's figure it out, let's go deep dive into the data sets, and we'll figure out which biasness will come in.
+
+132
+00:12:03.840 --> 00:12:06.889
+Shiva Kumar Chary Valaboju: Right now is that… that's what I'm trying to do.
+
+133
+00:12:07.010 --> 00:12:13.019
+Shiva Kumar Chary Valaboju: Like… I'm exploring… I'm building a language, like, building a model for…
+
+134
+00:12:13.550 --> 00:12:17.999
+Shiva Kumar Chary Valaboju: Showing up the discriminatory behavior is happening in the dataset.
+
+135
+00:12:18.250 --> 00:12:18.980
+Shiva Kumar Chary Valaboju: Right.
+
+136
+00:12:19.480 --> 00:12:22.520
+Shiva Kumar Chary Valaboju: That's what I'm training and testing, I'm starting to…
+
+137
+00:12:22.520 --> 00:12:27.339
+Jennifer p: That's what I mean, like, I'm glad you're doing that, because I don't know how to do that with this particular data set, I don't know how to build a model.
+
+138
+00:12:27.340 --> 00:12:30.100
+Shiva Kumar Chary Valaboju: No, we don't do that.
+
+139
+00:12:30.100 --> 00:12:40.419
+Jennifer p: So as far as my homework, my submission part of this homework, I don't know how to build any sort of specific model. I can dive into the data and do, you know, some, like, pick…
+
+140
+00:12:40.960 --> 00:12:46.570
+Jennifer p: apart stuff in the data, but I don't really know how to demonstrate the actual
+
+141
+00:12:47.010 --> 00:12:49.730
+Jennifer p: Bias as far as the data itself.
+
+142
+00:12:50.810 --> 00:13:08.040
+Shiva Kumar Chary Valaboju: Oh, I gotcha. Like, it's a pretty, pretty thing that we're gonna be, done in our previous courses, is, like, basic, if you see the code that I've just uploaded, it's called ED analysis. It's called basically going and visualizing the data, what's happening in the…
+
+143
+00:13:08.040 --> 00:13:24.459
+Shiva Kumar Chary Valaboju: CSV files, with every CSV file, that's what I did. And I found that it's better to do work on the train.csv, because it has some biases in it, which has so many null values, we have so many gender inequalities in it, so we can drop some… drop some
+
+144
+00:13:24.850 --> 00:13:39.719
+Shiva Kumar Chary Valaboju: columns or rows in it, and we can figure it out. We can create a model, test it, train it, do some visualizations, finally saying that this is what's happening, and this is what we found it. This is what the biology having figured out.
+
+145
+00:13:40.160 --> 00:13:44.740
+Jennifer p: Right, and I'm glad you sound really confident about that, but I don't know how to build a model and test it and train it and all that.
+
+146
+00:13:44.740 --> 00:13:47.429
+Shiva Kumar Chary Valaboju: Yeah, that's what I… and that's what I need to do further.
+
+147
+00:13:47.640 --> 00:13:49.030
+Shiva Kumar Chary Valaboju: I don't know.
+
+148
+00:13:50.470 --> 00:14:03.259
+Jennifer p: Okay, because what I'm understanding from this conversation is all four of us are each gonna build our own model, and we're gonna come together and see what we're gonna do, and that seems like a lot of work, like, for all four of us to build a model, like, I can do a lot of…
+
+149
+00:14:03.360 --> 00:14:11.800
+Jennifer p: data, like, preprocessing and exploring, and I can make graphs and all that stuff, but as far as building, like, any sort of specific.
+
+150
+00:14:11.800 --> 00:14:12.390
+Jay Beladiya: model.
+
+151
+00:14:12.390 --> 00:14:17.940
+Jennifer p: that measures the bias. I'm not really… I'm stumped… I'm stumped how to do it, is what I'm trying to say.
+
+152
+00:14:17.940 --> 00:14:25.499
+Jay Beladiya: If it helps you out, there's still time, we can change the dataset if you want, you can… we can pick one that's easier if you want.
+
+153
+00:14:26.930 --> 00:14:28.490
+Jay Beladiya: I don't think that's necessary.
+
+154
+00:14:28.990 --> 00:14:48.030
+Shiva Kumar Chary Valaboju: the same. So, actually, the thing is that I'm not using the 1.8 millions of dataset. I'm just using some data frames, and just dividing the data into some split of things. Like, we really… any model can't do these 1.8 millions. Like, any data set, whatever the datasets we're gonna do, we're gonna take, like.
+
+155
+00:14:48.120 --> 00:15:02.540
+Shiva Kumar Chary Valaboju: a little bit of data, whatever, like, I don't know everyone does the same, but I do that. I'll do a little, splits the data into, kind of, groups, and I work on the groups, and I'm gonna compare that with every group, and that's what my accuracy is gonna be done.
+
+156
+00:15:02.990 --> 00:15:07.409
+Shiva Kumar Chary Valaboju: So, I don't think that… if any datasets, it doesn't matter.
+
+157
+00:15:07.630 --> 00:15:09.089
+Shiva Kumar Chary Valaboju: I think we need to start it.
+
+158
+00:15:09.430 --> 00:15:22.180
+Jennifer p: Yeah, I did dig in, and I filtered it down from that 1.8 mil to just the… just the lines that contain the identifiers, which was 450,000 or something like that, I can't remember.
+
+159
+00:15:22.180 --> 00:15:23.400
+Shiva Kumar Chary Valaboju: Yeah.
+
+160
+00:15:23.820 --> 00:15:27.450
+Jennifer p: So I did filter it for that instead of that 1.8.
+
+161
+00:15:30.070 --> 00:15:33.709
+Jennifer p: Basically, all those null values were, like, just axed out of it.
+
+162
+00:15:35.290 --> 00:15:47.850
+Shiva Kumar Chary Valaboju: So yeah, we need to just first clean the data set. I think if you clean it, I think we're gonna get, like, half of the data set only after cleaning. And after doing some pre-process, and after that, it's gonna be a little bit of data for the model.
+
+163
+00:15:48.410 --> 00:15:54.460
+Shiva Kumar Chary Valaboju: And we're gonna do, like… it's gonna be, like, 60 to 40. We do, like, 60 training and 40 testing.
+
+164
+00:15:54.990 --> 00:15:56.450
+Shiva Kumar Chary Valaboju: I think it doesn't matter.
+
+165
+00:16:01.910 --> 00:16:05.769
+Shiva Kumar Chary Valaboju: So what do you say, like, are you go ahead with this dataset, or are you gonna change it?
+
+166
+00:16:07.690 --> 00:16:11.050
+Jennifer p: I mean, I think we should go ahead, we already kind of started on it.
+
+167
+00:16:11.050 --> 00:16:11.440
+Shiva Kumar Chary Valaboju: Yeah.
+
+168
+00:16:11.440 --> 00:16:15.210
+Jennifer p: If we change it, we're gonna have these same problems regardless, but…
+
+169
+00:16:15.210 --> 00:16:16.280
+Shiva Kumar Chary Valaboju: Yes, yes, no.
+
+170
+00:16:17.830 --> 00:16:26.000
+Jay Beladiya: Yeah, I mean, if you're comfortable… if you're fine with it, we can go ahead. If you need help, we can probably help you out if you're stuck anywhere, so…
+
+171
+00:16:26.830 --> 00:16:28.360
+Shiva Kumar Chary Valaboju: You can just, like, actually…
+
+172
+00:16:28.360 --> 00:16:33.099
+Jennifer p: I'm just trying to say that it's not necessary for four of us all to create our own separate models.
+
+173
+00:16:33.100 --> 00:16:34.020
+Jay Beladiya: Yeah, yeah, that's fine.
+
+174
+00:16:34.020 --> 00:16:42.119
+Jennifer p: Okay, let's, let's do one thing, okay? So, when we meet on Monday.
+
+175
+00:16:42.120 --> 00:16:50.690
+Jay Beladiya: and we've, we, give out our whatever analysis is, you can, you can, do more about the… the final report, the Google Doc.
+
+176
+00:16:50.690 --> 00:16:53.009
+Shiva Kumar Chary Valaboju: Right. Is that what's what you're trying to say.
+
+177
+00:16:54.170 --> 00:17:07.649
+Jennifer p: Okay, that's fine, and I already did some kind of, like, brainstorming in regards to that, and, like I said, I already did a preprocessing file that I'm gonna be uploading as soon as I figure out how to do it, so you guys can see what I got so far.
+
+178
+00:17:07.650 --> 00:17:11.680
+Jay Beladiya: So, I think… is that what you're trying to say? Like, you… Or…
+
+179
+00:17:11.829 --> 00:17:15.910
+Jennifer p: Yeah. Am I getting it wrong? Yeah, I'm just trying to say, like, can we just, like.
+
+180
+00:17:16.150 --> 00:17:18.400
+Shiva Kumar Chary Valaboju: She's not comfortable with the coding, I think so.
+
+181
+00:17:18.400 --> 00:17:21.020
+Jay Beladiya: Oh, yeah, yeah, yeah. If you're… it's okay if you're not.
+
+182
+00:17:21.020 --> 00:17:23.920
+Jennifer p: Like, I can figure out how to code, I just don't understand how the data…
+
+183
+00:17:23.920 --> 00:17:24.520
+Shiva Kumar Chary Valaboju: problem, like.
+
+184
+00:17:24.520 --> 00:17:24.940
+Jennifer p: How did.
+
+185
+00:17:24.940 --> 00:17:31.189
+Shiva Kumar Chary Valaboju: Me and Jay… me and Jay will do the coding, and you and Divya can do the…
+
+186
+00:17:31.190 --> 00:17:32.649
+Jay Beladiya: work on the Google report.
+
+187
+00:17:32.650 --> 00:17:37.499
+Shiva Kumar Chary Valaboju: or everything, but make sure you go through our codings, though. Like, you can go ahead with the…
+
+188
+00:17:37.500 --> 00:17:42.280
+Jennifer p: Yeah, no, I'll do that, and like I said, I did do some coding, and I'll present it on
+
+189
+00:17:43.540 --> 00:17:47.880
+Jennifer p: out how. It's just more pre-processing and exploring the data so far.
+
+190
+00:17:48.140 --> 00:17:48.480
+Shiva Kumar Chary Valaboju: No problem.
+
+191
+00:17:48.970 --> 00:18:06.249
+Shiva Kumar Chary Valaboju: You can do every time, whatever the codes we are gonna do, we'll commit it every time, like, whatever, once we're done, so you can go through the codes of our individual, and just, as the professor says that, he's gonna ask the everything, like, he's gonna pick up a person, and he gonna ask everything, so you should be having an idea of our coding.
+
+192
+00:18:06.410 --> 00:18:08.739
+Jennifer p: Right. Announcers, and everything, so…
+
+193
+00:18:08.780 --> 00:18:10.139
+Shiva Kumar Chary Valaboju: Just keep it in mind.
+
+194
+00:18:10.280 --> 00:18:14.870
+Shiva Kumar Chary Valaboju: Me and Jay gonna do the coding things, and we'll figure out the analysis and everything.
+
+195
+00:18:14.980 --> 00:18:18.929
+Shiva Kumar Chary Valaboju: And after that, we're gonna meet it, and we'll do a final… final, but…
+
+196
+00:18:19.590 --> 00:18:27.979
+Shiva Kumar Chary Valaboju: for the… for the individual project, I think you need to do some analysis also. That's what… that's the reason I'm saying that we need… everyone should do some coding.
+
+197
+00:18:28.940 --> 00:18:37.079
+Jennifer p: Right. What I'm trying to say is this project, with the training and testing and building a model type of… that part of it.
+
+198
+00:18:37.210 --> 00:18:40.259
+Jennifer p: I don't know how to do that part.
+
+199
+00:18:42.410 --> 00:18:43.540
+Jay Beladiya: Okay, so…
+
+200
+00:18:43.540 --> 00:18:48.370
+Jennifer p: At least if I do… if I did know how, I won't be able to… I wouldn't be able to obtain
+
+201
+00:18:48.590 --> 00:18:59.669
+Jennifer p: that project within this deadline and other things I have going on, I'm like… because this was, like, a competition thing, and, like, this seems kind of advanced as far as natural language processing.
+
+202
+00:19:01.210 --> 00:19:02.620
+Jay Beladiya: Okay, so…
+
+203
+00:19:04.030 --> 00:19:12.179
+Jennifer p: Yeah, but I'll… I can… I will 100% review everyone's data that they put in, and I can make sense of it. Like, I get coding
+
+204
+00:19:12.550 --> 00:19:14.329
+Jennifer p: On some level, it's just the…
+
+205
+00:19:15.020 --> 00:19:18.170
+Jennifer p: Building a model to demonstrate the data.
+
+206
+00:19:18.680 --> 00:19:21.240
+Jennifer p: But the data bias is what…
+
+207
+00:19:22.590 --> 00:19:26.260
+Jennifer p: I'm at a… at a… at a loss for at the moment.
+
+208
+00:19:28.430 --> 00:19:28.810
+Shiva Kumar Chary Valaboju: Do some.
+
+209
+00:19:28.810 --> 00:19:32.929
+Jennifer p: I just don't think I'll have… I don't think, even if I try it, I don't think I'll have a…
+
+210
+00:19:33.300 --> 00:19:34.600
+Jennifer p: a mild…
+
+211
+00:19:34.600 --> 00:19:40.199
+Shiva Kumar Chary Valaboju: Try what extent you… try to extend what you can do, and we can figure it out as a group, no problem.
+
+212
+00:19:40.200 --> 00:19:42.519
+Jay Beladiya: Yeah, it's okay. You don't have to worry about it.
+
+213
+00:19:42.520 --> 00:19:44.389
+Jennifer p: I'll make my best effort, I just wanted to be…
+
+214
+00:19:44.390 --> 00:19:47.160
+Shiva Kumar Chary Valaboju: Try your best and do some analysis, do comments.
+
+215
+00:19:47.160 --> 00:19:47.740
+Jay Beladiya: That's fine.
+
+216
+00:19:47.740 --> 00:19:53.849
+Shiva Kumar Chary Valaboju: just uploaded, And we're gonna figure it out while submitting the final submission. We're gonna do that, no problem.
+
+217
+00:19:53.850 --> 00:19:55.630
+Jennifer p: Okay, thanks for understanding.
+
+218
+00:19:55.630 --> 00:19:56.170
+Shiva Kumar Chary Valaboju: Yeah, no.
+
+219
+00:19:56.170 --> 00:19:57.590
+Jay Beladiya: No problem, no problem, it's okay.
+
+220
+00:19:57.860 --> 00:20:03.229
+Shiva Kumar Chary Valaboju: So it's a pretty thing, so… so that's what I'm trying to do, like, I'm working on the train.csv.
+
+221
+00:20:03.570 --> 00:20:07.020
+Shiva Kumar Chary Valaboju: And I'm trying to do some representations on that.
+
+222
+00:20:07.330 --> 00:20:12.180
+Shiva Kumar Chary Valaboju: Do some identity versus not identity, toxic biases.
+
+223
+00:20:12.460 --> 00:20:16.229
+Shiva Kumar Chary Valaboju: I'm trying to do some code, I'm getting some errors, I'm working on them.
+
+224
+00:20:16.450 --> 00:20:20.690
+Shiva Kumar Chary Valaboju: And I'm gonna do that right now and upload it by the end of the day.
+
+225
+00:20:20.850 --> 00:20:25.619
+Shiva Kumar Chary Valaboju: And we'll figure out something. Do whatever you guys can, and upload it.
+
+226
+00:20:26.470 --> 00:20:27.330
+Shiva Kumar Chary Valaboju: That's it.
+
+227
+00:20:29.930 --> 00:20:30.390
+Jennifer p: to go.
+
+228
+00:20:30.390 --> 00:20:32.010
+Jay Beladiya: Yeah, I think this sounds good.
+
+229
+00:20:32.220 --> 00:20:34.189
+Jay Beladiya: So we meet again on Monday, right?
+
+230
+00:20:34.190 --> 00:20:35.990
+Shiva Kumar Chary Valaboju: Yep, shup, no problem.
+
+231
+00:20:35.990 --> 00:20:40.150
+Jay Beladiya: Okay. Can I… I have one last random question. It's not related to this.
+
+232
+00:20:41.100 --> 00:20:43.929
+Jay Beladiya: Is this your… is this everyone's last semester?
+
+233
+00:20:44.260 --> 00:20:44.980
+Shiva Kumar Chary Valaboju: Yes?
+
+234
+00:20:45.190 --> 00:20:45.660
+Jennifer p: No.
+
+235
+00:20:46.300 --> 00:20:47.350
+Jay Beladiya: It's not your last semester?
+
+236
+00:20:47.350 --> 00:20:48.570
+Shiva Kumar Chary Valaboju: It's my last semester.
+
+237
+00:20:49.470 --> 00:20:52.550
+sukanya: No, not for me, and also Jennifer, I think so.
+
+238
+00:20:53.460 --> 00:20:54.319
+Jay Beladiya: Oh, okay.
+
+239
+00:20:54.460 --> 00:20:57.050
+Jay Beladiya: I think I'll be graduating. I'm ready to graduate.
+
+240
+00:20:57.320 --> 00:20:57.940
+Jennifer p: Unbelievable.
+
+241
+00:20:57.940 --> 00:20:59.000
+Jay Beladiya: this behind.
+
+242
+00:21:00.240 --> 00:21:00.870
+Shiva Kumar Chary Valaboju: Do we do it?
+
+243
+00:21:00.870 --> 00:21:01.510
+Jay Beladiya: semester.
+
+244
+00:21:01.510 --> 00:21:05.040
+Shiva Kumar Chary Valaboju: Do you intend to graduate right now, Jay, or…
+
+245
+00:21:05.500 --> 00:21:07.639
+Jay Beladiya: Oh, I already, I already… I'm already done with it.
+
+246
+00:21:07.970 --> 00:21:10.789
+Shiva Kumar Chary Valaboju: Oh, I haven't done yet. I need to do that. Oh, for sure.
+
+247
+00:21:10.960 --> 00:21:16.949
+Jay Beladiya: Well, it said, by Feb… second week of Feb, or first week of Feb? I don't know, you should probably do it quick.
+
+248
+00:21:18.440 --> 00:21:20.499
+sukanya: So, this is your last MC?
+
+249
+00:21:20.760 --> 00:21:21.450
+Jay Beladiya: Yeah.
+
+250
+00:21:22.200 --> 00:21:22.820
+sukanya: Good.
+
+251
+00:21:22.820 --> 00:21:26.099
+Jennifer p: Good job, you guys. You're… you're almost done. Proud of you.
+
+252
+00:21:26.660 --> 00:21:29.380
+Jennifer p: So, wait, what semester are you guys in?
+
+253
+00:21:30.200 --> 00:21:32.310
+Jennifer p: A second to last?
+
+254
+00:21:32.310 --> 00:21:33.010
+sukanya: Yeah.
+
+255
+00:21:33.010 --> 00:21:33.900
+Jay Beladiya: class.
+
+256
+00:21:34.480 --> 00:21:41.649
+Jennifer p: I started… I started last January, so I know I didn't start on, like, fall, you know, most people start in the fall.
+
+257
+00:21:42.580 --> 00:21:43.750
+Jay Beladiya: Oh, okay.
+
+258
+00:21:44.080 --> 00:21:46.180
+Jay Beladiya: So this is your.
+
+259
+00:21:46.440 --> 00:21:47.490
+sukanya: Third semester.
+
+260
+00:21:47.490 --> 00:21:48.620
+Jay Beladiya: Third semester.
+
+261
+00:21:48.620 --> 00:21:50.689
+sukanya: Yeah, oh, okay.
+
+262
+00:21:50.870 --> 00:21:51.960
+sukanya: I saw her.
+
+263
+00:21:51.960 --> 00:21:52.800
+Shiva Kumar Chary Valaboju: Staying close to the…
+
+264
+00:21:52.800 --> 00:21:55.579
+sukanya: In our data lives.
+
+265
+00:21:56.860 --> 00:21:57.710
+sukanya: Yep.
+
+266
+00:21:58.100 --> 00:22:00.269
+Jay Beladiya: Oh, you've seen her in Data Dies?
+
+267
+00:22:00.270 --> 00:22:00.950
+sukanya: Yeah.
+
+268
+00:22:01.760 --> 00:22:03.860
+Jennifer p: Yeah, we go way back.
+
+269
+00:22:05.970 --> 00:22:10.349
+Jay Beladiya: Alright, well… I guess we meet on Monday.
+
+270
+00:22:10.660 --> 00:22:12.149
+sukanya: Yep, sure, no problem.
+
+271
+00:22:12.790 --> 00:22:15.489
+Jay Beladiya: What time? Do you want to decide what time now, or…
+
+272
+00:22:15.730 --> 00:22:18.039
+sukanya: Yeah, we can decide on Sunday, please.
+
+273
+00:22:18.410 --> 00:22:19.470
+Jay Beladiya: Stand there.
+
+274
+00:22:19.640 --> 00:22:20.560
+sukanya: Yeah.
+
+275
+00:22:21.050 --> 00:22:23.749
+Shiva Kumar Chary Valaboju: Monday, it's gonna be, like, the same time, 9.30.
+
+276
+00:22:23.990 --> 00:22:24.390
+Jay Beladiya: Okay.
+
+277
+00:22:24.390 --> 00:22:29.910
+sukanya: Okay. Oh, no! Actually, monday, I can't…
+
+278
+00:22:30.240 --> 00:22:33.509
+sukanya: Can we meet on, like, mornings?
+
+279
+00:22:34.220 --> 00:22:35.040
+Shiva Kumar Chary Valaboju: No.
+
+280
+00:22:35.580 --> 00:22:36.210
+Jay Beladiya: However…
+
+281
+00:22:36.370 --> 00:22:37.949
+sukanya: Shift in college.
+
+282
+00:22:38.460 --> 00:22:39.260
+Jay Beladiya: I'm not…
+
+283
+00:22:40.020 --> 00:22:41.210
+sukanya: Healing is low for me.
+
+284
+00:22:41.210 --> 00:22:45.399
+Jay Beladiya: Wait, what time do you get off? You work at McKelly's, right?
+
+285
+00:22:45.400 --> 00:22:46.860
+sukanya: Yes, 10.30.
+
+286
+00:22:47.600 --> 00:22:48.900
+Jay Beladiya: Get him at 10.30?
+
+287
+00:22:48.900 --> 00:22:49.670
+sukanya: Yep.
+
+288
+00:22:51.950 --> 00:22:56.760
+Shiva Kumar Chary Valaboju: Join… join us and stay… stay silent, no problem, you'll figure.
+
+289
+00:22:57.180 --> 00:22:57.950
+sukanya: No, we know.
+
+290
+00:22:59.080 --> 00:23:03.100
+Jay Beladiya: Oh, you are. I mean, if everyone's fine with…
+
+291
+00:23:03.370 --> 00:23:12.069
+Jay Beladiya: doing it a little bit late, I wouldn't mind, but I think Jennifer has… works from 8 to 5, so she probably might have to…
+
+292
+00:23:13.160 --> 00:23:15.070
+Jennifer p: I mean, as long as it's…
+
+293
+00:23:15.490 --> 00:23:19.210
+Jay Beladiya: You mean, like, late as in after 10.30? Yeah.
+
+294
+00:23:19.440 --> 00:23:33.659
+Jay Beladiya: I mean, I have classes, like, in the afternoon, so I'm good with it, but I think, yeah, you work from 8 to 5, or 9 to 5, if I remember correctly. I don't know about Shiva, but I think if you're in the same classes, he probably also has in the afternoon.
+
+295
+00:23:35.200 --> 00:23:40.849
+Jennifer p: Yeah, I have… I work 8 to 5, and then classes on Tuesdays and Thursday nights, but.
+
+296
+00:23:40.850 --> 00:23:42.329
+Jay Beladiya: That's a hefty schedule.
+
+297
+00:23:44.190 --> 00:23:46.759
+Jennifer p: I mean, it's whatever, yeah.
+
+298
+00:23:46.760 --> 00:23:48.450
+Jay Beladiya: Yeah, you're doing great for that.
+
+299
+00:23:51.340 --> 00:23:58.800
+Jennifer p: I'm flexible as long as it's after work time, I guess, but if it needs to be 10… 10.30 or whatever, that's fine.
+
+300
+00:24:00.490 --> 00:24:03.049
+Jay Beladiya: Well, if, well, what about you, Shiva?
+
+301
+00:24:04.010 --> 00:24:06.939
+Shiva Kumar Chary Valaboju: Actually, it works for me overnight, so…
+
+302
+00:24:06.960 --> 00:24:07.760
+Jay Beladiya: Papa Day.
+
+303
+00:24:08.060 --> 00:24:09.849
+Jay Beladiya: Oh, from 9, whatever time?
+
+304
+00:24:10.170 --> 00:24:20.359
+Shiva Kumar Chary Valaboju: Yeah, from… see, the same time right now, I have a shift to… till, like, morning 10 to, like, have some classes, have some GA work, and have some…
+
+305
+00:24:20.680 --> 00:24:24.799
+Shiva Kumar Chary Valaboju: call, like, work in the professor's… I'm free after 9.
+
+306
+00:24:25.340 --> 00:24:29.059
+Jay Beladiya: Okay, well, I mean, if it works… if after 10.30 works for everyone, then…
+
+307
+00:24:29.060 --> 00:24:31.209
+Shiva Kumar Chary Valaboju: Yeah, it's worked for me after 10.30, though.
+
+308
+00:24:31.210 --> 00:24:34.239
+sukanya: Yeah. Jennifer, what about you? You okay?
+
+309
+00:24:34.240 --> 00:24:35.469
+Jennifer p: Yeah, that's fine, yeah.
+
+310
+00:24:35.470 --> 00:24:36.429
+sukanya: Yeah. Okay, cool.
+
+311
+00:24:36.430 --> 00:24:38.209
+Jennifer p: So, Monday after 10.30?
+
+312
+00:24:38.210 --> 00:24:38.680
+Jay Beladiya: Yeah.
+
+313
+00:24:38.880 --> 00:24:43.210
+Jennifer p: And by after 10.30, what does that mean? 10.30, 10.15, 10.45, 11?
+
+314
+00:24:43.210 --> 00:24:49.379
+Jay Beladiya: I mean, if she can get home on… I don't know when she gets home, or how much… how long it takes to get her…
+
+315
+00:24:49.500 --> 00:24:50.210
+Jay Beladiya: To get home.
+
+316
+00:24:51.250 --> 00:24:51.900
+sukanya: 15?
+
+317
+00:24:51.900 --> 00:24:52.640
+Shiva Kumar Chary Valaboju: Do that lemon?
+
+318
+00:24:52.640 --> 00:24:56.199
+sukanya: I will be there at 10.45 at home, so let's start.
+
+319
+00:24:56.200 --> 00:24:57.050
+Shiva Kumar Chary Valaboju: We'll do it 11am.
+
+320
+00:24:57.050 --> 00:24:58.710
+sukanya: attend, Dari.
+
+321
+00:24:58.710 --> 00:24:59.560
+Jay Beladiya: We can do it at 11.
+
+322
+00:24:59.560 --> 00:25:03.489
+Shiva Kumar Chary Valaboju: Maybe our 11.45, we'll do a quick… Recap, and we'll close it.
+
+323
+00:25:03.990 --> 00:25:04.320
+sukanya: Yeah.
+
+324
+00:25:04.320 --> 00:25:09.329
+Jay Beladiya: Yeah, we can make it quick. I mean, it doesn't have to be, like, an hour or something. I don't think it'll go an hour.
+
+325
+00:25:09.530 --> 00:25:11.959
+Jay Beladiya: But we can make it, like, 30 minutes, so…
+
+326
+00:25:12.840 --> 00:25:14.940
+Jay Beladiya: It won't be go- it won't go too late.
+
+327
+00:25:16.040 --> 00:25:16.870
+Jennifer p: Huh.
+
+328
+00:25:17.080 --> 00:25:22.230
+sukanya: So, our homework is, like, do our analysis, right?
+
+329
+00:25:22.550 --> 00:25:26.990
+Shiva Kumar Chary Valaboju: So the reason for saying, do your own analysis is because we do.
+
+330
+00:25:26.990 --> 00:25:29.459
+sukanya: Yeah, we also have to submit our invoice.
+
+331
+00:25:29.460 --> 00:25:40.969
+Shiva Kumar Chary Valaboju: Individually, so if you do our individually, and we'll figure it out with those insights for the group projects, and we're gonna submit our individual. We're gonna do both simultaneously, that's the reason I'm saying.
+
+332
+00:25:40.970 --> 00:25:44.749
+Jay Beladiya: Let's just… let's just say that, everybody work on their…
+
+333
+00:25:45.030 --> 00:25:51.270
+Jay Beladiya: Jupyter notebook files, and then whatever you guys do, just come and discuss it so we can put it in the report. That's it.
+
+334
+00:25:51.320 --> 00:26:07.790
+Jay Beladiya: Yeah. So whatever you guys want to do in the coding section, you're free to do whatever you want. Because I know you guys' second, it's your third semester, so I'm not sure if you still came across whatever model building or that. I don't remember, so…
+
+335
+00:26:08.190 --> 00:26:16.059
+Jay Beladiya: whatever you guys are comfortable with, just do it in the coding section, and then you guys can come and discuss on Monday, and then we'll figure out what to put in the report.
+
+336
+00:26:17.030 --> 00:26:17.540
+Jennifer p: Okay.
+
+337
+00:26:17.540 --> 00:26:18.110
+sukanya: Okay.
+
+338
+00:26:19.490 --> 00:26:21.030
+Jay Beladiya: So that's it?
+
+339
+00:26:21.720 --> 00:26:22.620
+sukanya: That's it.
+
+340
+00:26:23.180 --> 00:26:23.630
+Jay Beladiya: Okay.
+
+341
+00:26:23.630 --> 00:26:24.510
+Jennifer p: Seems good.
+
+342
+00:26:24.760 --> 00:26:36.210
+Shiva Kumar Chary Valaboju: Jay, like, I'm filming the intent of graduation form right now. I'm sorry for that. What's the term we're gonna do? Is that December or fall, or May, or spring, or August, or somewhere?
+
+343
+00:26:36.320 --> 00:26:37.790
+Jay Beladiya: For what, graduate?
+
+344
+00:26:38.090 --> 00:26:40.100
+Shiva Kumar Chary Valaboju: It's saying that graduation information.
+
+345
+00:26:41.150 --> 00:26:45.779
+Jay Beladiya: I put spring 26, because that's my… that's when you graduate, so…
+
+346
+00:26:47.100 --> 00:26:55.239
+Jay Beladiya: Well, usually when someone asks you when to graduate, you say Spring 26, if it's their last semester, so I just put in Spring 2026.
+
+347
+00:26:55.470 --> 00:26:56.240
+Shiva Kumar Chary Valaboju: Okay.
+
+348
+00:26:56.350 --> 00:26:59.169
+Shiva Kumar Chary Valaboju: Okay. May or… May or spring, right?
+
+349
+00:26:59.760 --> 00:27:04.019
+Jay Beladiya: Yeah, I mean, well, either works. May 9th is the last day of the semester.
+
+350
+00:27:04.020 --> 00:27:05.770
+Shiva Kumar Chary Valaboju: Spring or spring, that's what I said.
+
+351
+00:27:06.200 --> 00:27:06.830
+Jay Beladiya: Yeah, yeah.
+
+352
+00:27:06.830 --> 00:27:12.049
+Shiva Kumar Chary Valaboju: Submitting a thesis? No. Are you earning a graduate certificate inject another degree? No.
+
+353
+00:27:12.160 --> 00:27:13.540
+Shiva Kumar Chary Valaboju: And everything is no, right?
+
+354
+00:27:13.540 --> 00:27:14.190
+sukanya: I agree.
+
+355
+00:27:14.620 --> 00:27:17.109
+Jay Beladiya: I don't remember, but you can figure it out.
+
+356
+00:27:17.740 --> 00:27:18.400
+Shiva Kumar Chary Valaboju: Okay.
+
+357
+00:27:18.660 --> 00:27:19.930
+Shiva Kumar Chary Valaboju: Okay, guys, bye.
+
+358
+00:27:19.930 --> 00:27:21.120
+Jennifer p: Bye! Bye!
+
+359
+00:27:21.480 --> 00:27:23.070
+Jay Beladiya: See you guys Monday.
+
